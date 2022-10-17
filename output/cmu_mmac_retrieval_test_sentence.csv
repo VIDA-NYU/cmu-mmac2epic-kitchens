@@ -1,0 +1,324 @@
+narration_id,narration
+S09_Brownie_0000132,clean bowl paper_towel
+S09_Brownie_0000041,clean hands paper_towel
+S13_Eggs_0000176,clean hands paper_towel partially
+S28_Brownie_0000053,clean hands towel
+S29_Sandwich_0000038,clean knife paper_towel
+S07_Sandwich_0000016,close bread_bag
+S16_Sandwich_0000025,close bread_bag partially
+S07_Brownie_0000096,close butter_spray_can
+S07_Brownie_0000086,close cupboard_bl
+S07_Brownie_0000062,close cupboard_br
+S07_Eggs_0000035,close cupboard_tl
+S13_Brownie_0000010,close cupboard_tm
+S07_Brownie_0000008,close cupboard_tr
+S07_Brownie_0000012,close drawer
+S20_Eggs_0000084,close drawer partially
+S07_Eggs_0000009,close egg_box
+S07_Brownie_0000018,close fridge
+S13_Brownie_0000048,close garbage
+S07_Sandwich_0000049,close jam_glass
+S07_Brownie_0000054,close oil_bottle
+S18_Eggs_0000059,close oil_bottle partially
+S07_Brownie_0000107,close oven
+S07_Sandwich_0000053,close peanut_butter_glass
+S18_Eggs_0000049,close pepper_shaker
+S13_Eggs_0000077,close salt_shaker
+S16_Sandwich_0000063,cut 1 sandwich knife
+S07_Brownie_0000077,fill brownie_mix brownie_bag bowl
+S09_Brownie_0000093,fill brownie_mix brownie_bag bowl partially
+S07_Brownie_0000094,fill butter butter_spray_can baking_pan
+S54_Brownie_0000101,fill butter butter_spray_can baking_pan partially
+S13_Eggs_0000140,fill butter butter_spray_can pan
+S13_Eggs_0000099,fill butter butter_spray_can pan partially
+S07_Brownie_0000102,fill dough bowl baking_pan
+S13_Brownie_0000131,fill dough bowl baking_pan partially
+S07_Brownie_0000024,fill egg open_egg_shell bowl
+S07_Eggs_0000069,fill eggs bowl pan
+S53_Eggs_0000059,fill eggs bowl pan partially
+S07_Eggs_0000084,fill eggs pan plate
+S07_Sandwich_0000042,fill jam jam_glass bread
+S07_Sandwich_0000040,fill jam jam_glass bread partially
+S07_Brownie_0000056,fill oil measuring_cup_s bowl
+S19_Brownie_0000080,fill oil measuring_cup_s bowl partially
+S07_Brownie_0000050,fill oil oil_bottle measuring_cup_s
+S20_Brownie_0000020,fill oil oil_bottle measuring_cup_s partially
+S07_Eggs_0000047,fill oil oil_bottle pan
+S48_Eggs_0000043,fill oil oil_bottle pan partially
+S16_Eggs_0000054,fill oil pan sink
+S16_Eggs_0000040,fill oil pan sink partially
+S07_Sandwich_0000036,fill peanut_butter peanut_butter_glass bread
+S55_Sandwich_0000043,fill peanut_butter peanut_butter_glass bread partailly
+S08_Sandwich_0000037,fill peanut_butter peanut_butter_glass bread partially
+S07_Eggs_0000031,fill pepper pepper_shaker bowl
+S13_Eggs_0000048,fill pepper pepper_shaker bowl partially
+S16_Eggs_0000069,fill pepper pepper_shaker pan
+S07_Eggs_0000028,fill salt salt_shaker bowl
+S14_Eggs_0000027,fill salt salt_shaker bowl partially
+S16_Eggs_0000066,fill salt salt_shaker pan
+S07_Brownie_0000039,fill water measuring_cup_l bowl
+S20_Brownie_0000060,fill water measuring_cup_l bowl partially
+S07_Brownie_0000038,fill water tap measuring_cup_l
+S07_Sandwich_0000004,open bread_bag
+S07_Brownie_0000072,open brownie_bag
+S07_Brownie_0000067,open brownie_bag partially
+S07_Brownie_0000065,open brownie_box
+S07_Brownie_0000091,open butter_spray_can
+S07_Brownie_0000084,open cupboard_bl
+S07_Brownie_0000042,open cupboard_br
+S07_Brownie_0000063,open cupboard_tl
+S13_Brownie_0000006,open cupboard_tm
+S07_Brownie_0000001,open cupboard_tr
+S07_Brownie_0000009,open drawer
+S36_Sandwich_0000024,open drawer partially
+S07_Brownie_0000015,open egg_box
+S07_Brownie_0000022,open egg_shell
+S07_Brownie_0000014,open fridge
+S13_Brownie_0000046,open garbage
+S07_Sandwich_0000038,open jam_glass
+S07_Brownie_0000046,open oil_bottle
+S07_Brownie_0000104,open oven
+S07_Sandwich_0000034,open peanut_butter_glass
+S54_Sandwich_0000037,open peanut_butter_glass partially
+S28_Eggs_0000047,open pepper_shaker
+S18_Eggs_0000097,open salt_shaker
+S07_Eggs_0000015,other
+S07_Sandwich_0000045,put 1 bread bread
+S36_Sandwich_0000023,put 1 bread counter
+S17_Sandwich_0000025,put 1 bread plate
+S07_Brownie_0000021,put 1 egg_shell counter
+S25_Brownie_0000046,put 1 empty_egg_shell brownie_box
+S17_Brownie_0000056,put 1 empty_egg_shell counter
+S13_Brownie_0000100,put 1 empty_egg_shell garbage
+S32_Brownie_0000058,put 1 empty_egg_shell measuring_cup_l
+S07_Brownie_0000025,put 1 empty_egg_shell sink
+S09_Brownie_0000042,put 1 paper_towel counter
+S12_Brownie_0000046,put 1 paper_towel fridge_counter
+S13_Brownie_0000180,put 1 paper_towel garbage
+S09_Brownie_0000135,put 1 paper_towel sink
+S35_Sandwich_0000066,put 1 sandwich plate
+S35_Sandwich_0000022,put 2 bread board
+S19_Sandwich_0000009,put 2 bread counter
+S07_Sandwich_0000012,put 2 bread plate
+S09_Brownie_0000029,put 2 egg_shell counter
+S29_Eggs_0000084,put 2 empty_egg_shell bowl
+S54_Eggs_0000028,put 2 empty_egg_shell sink
+S07_Brownie_0000087,put baking_pan counter
+S07_Brownie_0000106,put baking_pan oven
+S07_Brownie_0000003,put bowl counter
+S07_Brownie_0000103,put bowl sink
+S29_Eggs_0000010,put bowl_s counter
+S29_Eggs_0000015,put bowl_s cupboard_tl
+S07_Sandwich_0000003,put bread_bag counter
+S07_Sandwich_0000017,put bread_bag cupboard_tl
+S28_Sandwich_0000059,put bread_bag fridge
+S29_Sandwich_0000004,put bread_bag fridge_counter
+S07_Brownie_0000078,put brownie_bag brownie_box
+S08_Brownie_0000048,put brownie_bag counter
+S09_Brownie_0000100,put brownie_bag sink
+S07_Brownie_0000066,put brownie_box counter
+S13_Brownie_0000181,put brownie_box garbage
+S07_Brownie_0000080,put brownie_box sink
+S08_Brownie_0000056,put brownie_box&brownie_bag sink
+S07_Brownie_0000061,put butter_spray_can counter
+S28_Brownie_0000095,put butter_spray_can cupboard_bl
+S08_Brownie_0000087,put butter_spray_can cupboard_br
+S07_Brownie_0000092,put butter_spray_cap counter
+S07_Sandwich_0000005,put clip counter
+S29_Brownie_0000010,put egg_box counter
+S54_Brownie_0000129,put egg_box fridge
+S14_Brownie_0000090,put fork baking_pan
+S07_Brownie_0000035,put fork bowl
+S07_Brownie_0000011,put fork counter
+S07_Eggs_0000087,put fork pan
+S11_Eggs_0000075,put fork plate
+S07_Brownie_0000101,put fork sink
+S16_Brownie_0000095,put fork&spoon sink
+S35_Sandwich_0000033,put jam_glass board
+S07_Sandwich_0000030,put jam_glass counter
+S07_Sandwich_0000057,put jam_glass fridge
+S36_Sandwich_0000006,put jam_glass fridge_counter
+S29_Sandwich_0000031,put jam_glass&jam_glass_cap counter
+S15_Sandwich_0000021,put jam_glass&peanut_butter_glass counter
+S08_Sandwich_0000059,put jam_glass&peanut_butter_glass fridge
+S12_Sandwich_0000015,put jam_glass_2 fridge
+S35_Sandwich_0000032,put jam_glass_cap board
+S07_Sandwich_0000039,put jam_glass_cap counter
+S35_Sandwich_0000045,put knife board
+S08_Sandwich_0000012,put knife counter
+S16_Brownie_0000042,put knife drawer
+S07_Sandwich_0000023,put knife plate
+S07_Sandwich_0000043,put knife sink
+S16_Sandwich_0000065,put knife&spoon sink
+S07_Brownie_0000007,put measuring_cup_l counter
+S13_Brownie_0000171,put measuring_cup_l cupboard_tr
+S09_Brownie_0000068,put measuring_cup_l sink
+S07_Brownie_0000005,put measuring_cup_s counter
+S08_Brownie_0000035,put measuring_cup_s sink
+S16_Brownie_0000008,put measuring_cup_s&measuring_cup_l counter
+S07_Brownie_0000044,put oil_bottle counter
+S28_Brownie_0000041,put oil_bottle cupboard_bl
+S07_Brownie_0000059,put oil_bottle cupboard_br
+S20_Brownie_0000025,put oil_bottle sink
+S07_Brownie_0000047,put oil_bottle_cap counter
+S16_Eggs_0000024,put pan counter
+S48_Eggs_0000100,put pan plate
+S08_Eggs_0000071,put pan sink
+S07_Eggs_0000041,put pan stove
+S35_Sandwich_0000028,put peanut_butter_glass board
+S07_Sandwich_0000031,put peanut_butter_glass counter
+S07_Sandwich_0000058,put peanut_butter_glass fridge
+S36_Sandwich_0000005,put peanut_butter_glass fridge_counter
+S25_Sandwich_0000032,put peanut_butter_glass&peanut_butter_glass_cap counter
+S07_Sandwich_0000035,put peanut_butter_glass_cap counter
+S07_Eggs_0000027,put pepper_shaker counter
+S11_Eggs_0000046,put pepper_shaker cupboard_tl
+S14_Eggs_0000023,put pepper_shaker&salt_shaker counter
+S07_Eggs_0000033,put pepper_shaker&salt_shaker cupboard_tl
+S07_Eggs_0000059,put plate counter
+S07_Eggs_0000029,put salt_shaker counter
+S09_Eggs_0000053,put salt_shaker cupboard_tl
+S09_Brownie_0000081,put scissors counter
+S07_Brownie_0000071,put scissors drawer
+S36_Brownie_0000105,put spatula bowl
+S08_Eggs_0000060,put spatula counter
+S19_Eggs_0000126,put spatula pan
+S13_Eggs_0000136,put spatula plate
+S13_Eggs_0000174,put spatula sink
+S41_Sandwich_0000033,put spoon board
+S13_Brownie_0000120,put spoon bowl
+S20_Sandwich_0000048,put spoon counter
+S16_Sandwich_0000059,put spoon plate
+S17_Brownie_0000097,put spoon sink
+S28_Brownie_0000055,put towel counter
+S28_Eggs_0000043,put towel fridge_counter
+S33_Brownie_0000133,put whisk baking_pan
+S28_Brownie_0000079,put whisk bowl
+S29_Brownie_0000084,put whisk counter
+S31_Brownie_0000081,put whisk sink
+S31_Eggs_0000044,put whisk&spatula counter
+S32_Brownie_0000100,shake baking_pan
+S07_Brownie_0000093,shake butter_spray_can
+S07_Eggs_0000051,shake pan
+S07_Brownie_0000034,stir bowl fork
+S07_Brownie_0000082,stir bowl fork partially
+S13_Brownie_0000119,stir bowl spoon
+S13_Eggs_0000052,stir bowl spoon partially
+S28_Brownie_0000098,stir bowl whisk
+S28_Brownie_0000077,stir bowl whisk partially
+S09_Eggs_0000069,stir pan fork
+S09_Eggs_0000067,stir pan fork partially
+S13_Eggs_0000165,stir pan spatula
+S13_Eggs_0000143,stir pan spatula partially
+S36_Eggs_0000091,stir pan spatula patially
+S48_Eggs_0000088,stir pan whisk partially
+S35_Sandwich_0000060,take 1 bread board
+S50_Sandwich_0000017,take 1 bread bread_bag
+S36_Sandwich_0000047,take 1 bread counter
+S07_Sandwich_0000044,take 1 bread plate
+S07_Brownie_0000026,take 1 egg_shell counter
+S07_Brownie_0000016,take 1 egg_shell egg_box
+S09_Brownie_0000131,take 1 paper_towel counter
+S09_Brownie_0000039,take 1 paper_towel fridge_counter
+S35_Sandwich_0000065,take 1 sandwich board
+S07_Sandwich_0000011,take 2 bread bread_bag
+S19_Sandwich_0000024,take 2 bread counter
+S30_Brownie_0000041,take 2 egg_shell counter
+S08_Brownie_0000064,take 2 egg_shell egg_box
+S29_Eggs_0000083,take 2 empty_egg_shell counter
+S07_Brownie_0000105,take baking_pan counter
+S07_Brownie_0000085,take baking_pan cupboard_bl
+S28_Brownie_0000083,take baking_pan oven
+S07_Brownie_0000033,take bowl counter
+S28_Brownie_0000010,take bowl cupboard_tm
+S07_Brownie_0000002,take bowl cupboard_tr
+S29_Eggs_0000014,take bowl_s counter
+S29_Eggs_0000009,take bowl_s cupboard_tl
+S07_Sandwich_0000013,take bread_bag counter
+S07_Sandwich_0000002,take bread_bag cupboard_tl
+S28_Sandwich_0000003,take bread_bag fridge
+S29_Sandwich_0000011,take bread_bag fridge_counter
+S07_Brownie_0000075,take brownie_bag brownie_box
+S08_Brownie_0000053,take brownie_bag counter
+S07_Brownie_0000074,take brownie_box counter
+S28_Brownie_0000022,take brownie_box cupboard_br
+S07_Brownie_0000064,take brownie_box cupboard_tl
+S24_Brownie_0000029,take brownie_box cupboard_tm
+S14_Brownie_0000043,take brownie_box sink
+S07_Brownie_0000090,take butter_spray_can counter
+S28_Brownie_0000088,take butter_spray_can cupboard_bl
+S07_Brownie_0000060,take butter_spray_can cupboard_br
+S07_Brownie_0000095,take butter_spray_cap counter
+S07_Sandwich_0000015,take clip counter
+S54_Brownie_0000126,take egg_box counter
+S29_Brownie_0000007,take egg_box fridge
+S14_Brownie_0000092,take fork baking_pan
+S07_Brownie_0000081,take fork bowl
+S07_Brownie_0000020,take fork counter
+S07_Brownie_0000010,take fork drawer
+S16_Eggs_0000085,take fork pan
+S13_Eggs_0000169,take fork plate
+S07_Eggs_0000074,take fork sink
+S35_Sandwich_0000038,take jam_glass board
+S07_Sandwich_0000037,take jam_glass counter
+S07_Sandwich_0000026,take jam_glass fridge
+S47_Sandwich_0000067,take jam_glass fridge_counter
+S34_Sandwich_0000044,take jam_glass&jam_glass_cap counter
+S47_Sandwich_0000062,take jam_glass&peanut_butter_glass counter
+S36_Sandwich_0000016,take jam_glass&peanut_butter_glass fridge_counter
+S12_Sandwich_0000013,take jam_glass_2 fridge
+S35_Sandwich_0000046,take jam_glass_cap board
+S07_Sandwich_0000048,take jam_glass_cap counter
+S35_Sandwich_0000050,take knife board
+S08_Sandwich_0000036,take knife counter
+S07_Sandwich_0000020,take knife drawer
+S07_Sandwich_0000032,take knife plate
+S08_Sandwich_0000043,take knife sink
+S07_Brownie_0000037,take measuring_cup_l counter
+S07_Brownie_0000006,take measuring_cup_l cupboard_tr
+S07_Brownie_0000041,take measuring_cup_s counter
+S07_Brownie_0000004,take measuring_cup_s cupboard_tr
+S07_Brownie_0000049,take oil_bottle counter
+S28_Brownie_0000027,take oil_bottle cupboard_bl
+S07_Brownie_0000043,take oil_bottle cupboard_br
+S07_Brownie_0000053,take oil_bottle_cap counter
+S16_Eggs_0000030,take pan counter
+S07_Eggs_0000039,take pan cupboard_bl
+S28_Eggs_0000014,take pan cupboard_tm
+S07_Eggs_0000050,take pan stove
+S07_Sandwich_0000052,take peanut_butter_glass counter
+S07_Sandwich_0000027,take peanut_butter_glass fridge
+S52_Sandwich_0000015,take peanut_butter_glass fridge_counter
+S41_Sandwich_0000051,take peanut_butter_glass&peanut_butter_glass_cap counter
+S07_Sandwich_0000051,take peanut_butter_glass_cap counter
+S07_Eggs_0000030,take pepper_shaker counter
+S07_Eggs_0000025,take pepper_shaker cupboard_tl
+S16_Eggs_0000077,take pepper_shaker&salt_shaker counter
+S13_Eggs_0000038,take pepper_shaker&salt_shaker cupboard_tl
+S28_Eggs_0000075,take plate cupboard_tl
+S07_Eggs_0000057,take plate cupboard_tr
+S07_Eggs_0000032,take salt_shaker counter
+S07_Eggs_0000026,take salt_shaker cupboard_tl
+S09_Brownie_0000084,take scissors counter
+S07_Brownie_0000069,take scissors drawer
+S19_Eggs_0000113,take spatula counter
+S08_Eggs_0000058,take spatula drawer
+S28_Eggs_0000063,take spatula pan
+S13_Eggs_0000142,take spatula plate
+S13_Brownie_0000142,take spoon bowl
+S20_Sandwich_0000053,take spoon counter
+S13_Brownie_0000115,take spoon drawer
+S16_Sandwich_0000064,take spoon plate
+S16_Brownie_0000099,take spoon sink
+S28_Brownie_0000081,take towel counter
+S28_Brownie_0000052,take towel fridge_counter
+S33_Brownie_0000135,take whisk baking_pan
+S28_Brownie_0000097,take whisk bowl
+S29_Brownie_0000102,take whisk counter
+S28_Brownie_0000075,take whisk drawer
+S40_Brownie_0000092,take whisk sink
+S07_Eggs_0000080,turn_off stove
+S07_Brownie_0000108,turn_on oven
+S07_Eggs_0000052,turn_on stove
+S07_Brownie_0000013,walk counter_place fridge_place
+S07_Brownie_0000019,walk fridge_place counter_place

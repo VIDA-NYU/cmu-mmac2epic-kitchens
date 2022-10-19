@@ -68,7 +68,7 @@ def convert_csv(csv_file, eaf_file=None, fps=30, target_recipe=None, norm=True):
     eaf_file = os.path.splitext(csv_file)[0] + '.eaf'
     df = pd.read_csv(csv_file, header=None)
     df.columns = ['start_time', 'new', 'narration']
-    df['stop_time'] = df.start_time.shift()
+    df['stop_time'] = df.start_time.shift(-1)
 
     # remove parentheses
     df['narration'] = df.narration.str.strip('()')
@@ -95,8 +95,8 @@ def convert_csv(csv_file, eaf_file=None, fps=30, target_recipe=None, norm=True):
     df['narration_timestamp'] = df['start_timestamp']
 
     # start/end frames
-    df['start_frame'] = (df.start_timestamp.dt.total_seconds() / fps).astype(int)
-    df['stop_frame'] = (df.stop_timestamp.dt.total_seconds() / fps).astype(int)
+    df['start_frame'] = (df.start_timestamp.dt.total_seconds() * fps).astype(int)
+    df['stop_frame'] = (df.stop_timestamp.dt.total_seconds() * fps).astype(int)
 
     # narration to noun/verb
     df['verb'] = df.narration.apply(lambda s: s.split()[0])
@@ -106,7 +106,7 @@ def convert_csv(csv_file, eaf_file=None, fps=30, target_recipe=None, norm=True):
     df['noun'] = df.all_nouns.apply(lambda ns: ' '.join(ns[:1]))
 
     if norm:
-        df['narration'] = df.apply(lambda r: ' '.join([r.verb]+r.all_nouns, axis=1)
+        df['narration'] = df.apply(lambda r: ' '.join([r.verb]+r.all_nouns), axis=1)
 
     return df
 

@@ -30,8 +30,11 @@ def main(ann_dir='Data', ek_root=None, out_dir='output', target_recipe=None, suf
     df = df.set_index('narration_id').sort_index()
 
     # csv output prefix
-    _suffix = f'_{target_recipe}' if target_recipe else ''
-    name = f'cmu_mmac{_suffix}{suffix}'
+    if target_recipe:
+        suffix = f'_{target_recipe}{suffix}'
+    if ek_root:
+        suffix = f'_norm{suffix}'
+    name = f'cmu_mmac{suffix}'
     print(name)
 
     # write out csvs/pkl files

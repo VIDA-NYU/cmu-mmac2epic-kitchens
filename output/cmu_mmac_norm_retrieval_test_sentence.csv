@@ -13,6 +13,8 @@ S13_Brownie_0000048,close rubbish
 S16_Sandwich_0000063,cut sandwich knife
 S07_Brownie_0000094,fill butter can pan
 S07_Brownie_0000102,fill dough bowl pan
+S07_Eggs_0000069,fill egg bowl pan
+S07_Eggs_0000084,fill egg pan plate
 S07_Brownie_0000024,fill egg shell:egg bowl
 S07_Brownie_0000077,fill mixture bag bowl
 S07_Brownie_0000050,fill oil bottle cup
@@ -23,8 +25,6 @@ S07_Eggs_0000031,fill pepper cellar:salt bowl
 S16_Eggs_0000069,fill pepper cellar:salt pan
 S07_Eggs_0000028,fill salt cellar:salt bowl
 S16_Eggs_0000066,fill salt cellar:salt pan
-S07_Eggs_0000069,fill shell:egg bowl pan
-S07_Eggs_0000084,fill shell:egg pan plate
 S07_Sandwich_0000036,fill spreads jar bread
 S07_Brownie_0000039,fill water cup bowl
 S07_Brownie_0000038,fill water tap cup

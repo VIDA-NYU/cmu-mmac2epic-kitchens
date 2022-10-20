@@ -156,7 +156,7 @@ manual_noun_norm = {
     'baking_pan': 'pan', 
     'pepper_shaker': 'cellar:salt', 
     'salt_shaker': 'cellar:salt', 
-    'eggs': 'shell:egg', 
+    'eggs': 'egg', 
     'bread_bag': 'bag', 
     'jam_glass': 'jar',
     'peanut_butter_glass': 'jar', 

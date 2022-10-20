@@ -170,7 +170,7 @@ S07_Eggs_0000065,S07,S07_Eggs,0 days 00:02:07.033000,0 days 00:02:07.033000,0 da
 S07_Eggs_0000066,S07,S07_Eggs,0 days 00:02:10.095000,0 days 00:02:10.095000,0 days 00:02:11.360000,3902,3940,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S07_Eggs_0000067,S07,S07_Eggs,0 days 00:02:11.360000,0 days 00:02:11.360000,0 days 00:02:13.499000,3940,4004,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S07_Eggs_0000068,S07,S07_Eggs,0 days 00:02:13.499000,0 days 00:02:13.499000,0 days 00:02:14.409000,4004,4032,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
-S07_Eggs_0000069,S07,S07_Eggs,0 days 00:02:14.409000,0 days 00:02:14.409000,0 days 00:02:23.342000,4032,4300,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S07_Eggs_0000069,S07,S07_Eggs,0 days 00:02:14.409000,0 days 00:02:14.409000,0 days 00:02:23.342000,4032,4300,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S07_Eggs_0000070,S07,S07_Eggs,0 days 00:02:23.342000,0 days 00:02:23.342000,0 days 00:02:27.578000,4300,4427,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S07_Eggs_0000072,S07,S07_Eggs,0 days 00:02:49.924000,0 days 00:02:49.924000,0 days 00:02:54.354000,5097,5230,put fork sink,put,2,fork,17,"['fork', 'sink']","[17, 34]"
 S07_Eggs_0000074,S07,S07_Eggs,0 days 00:04:02.861000,0 days 00:04:02.861000,0 days 00:04:04.620000,7285,7338,take fork sink,take,1,fork,17,"['fork', 'sink']","[17, 34]"
@@ -178,7 +178,7 @@ S07_Eggs_0000076,S07,S07_Eggs,0 days 00:04:09.707000,0 days 00:04:09.707000,0 da
 S07_Eggs_0000078,S07,S07_Eggs,0 days 00:04:55.808000,0 days 00:04:55.808000,0 days 00:04:57.435000,8874,8923,take fork sink,take,1,fork,17,"['fork', 'sink']","[17, 34]"
 S07_Eggs_0000080,S07,S07_Eggs,0 days 00:05:25.103000,0 days 00:05:25.103000,0 days 00:05:27.478000,9753,9824,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S07_Eggs_0000082,S07,S07_Eggs,0 days 00:05:36.450000,0 days 00:05:36.450000,0 days 00:05:37.392000,10093,10121,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S07_Eggs_0000084,S07,S07_Eggs,0 days 00:05:43.303000,0 days 00:05:43.303000,0 days 00:05:45.064000,10299,10351,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S07_Eggs_0000084,S07,S07_Eggs,0 days 00:05:43.303000,0 days 00:05:43.303000,0 days 00:05:45.064000,10299,10351,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S07_Eggs_0000086,S07,S07_Eggs,0 days 00:05:50.382000,0 days 00:05:50.382000,0 days 00:05:51.669000,10511,10550,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S07_Eggs_0000087,S07,S07_Eggs,0 days 00:05:51.669000,0 days 00:05:51.669000,0 days 00:05:59.314000,10550,10779,put fork pan,put,2,fork,17,"['fork', 'pan']","[17, 26]"
 S07_Sandwich_0000001,S07,S07_Sandwich,0 days 00:00:11.118000,0 days 00:00:11.118000,0 days 00:00:18.938000,333,568,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -378,7 +378,7 @@ S08_Eggs_0000043,S08,S08_Eggs,0 days 00:01:09.933000,0 days 00:01:09.933000,0 da
 S08_Eggs_0000044,S08,S08_Eggs,0 days 00:01:10.612000,0 days 00:01:10.612000,0 days 00:01:11.366000,2118,2140,take fork top,take,1,fork,17,"['fork', 'top']","[17, 39]"
 S08_Eggs_0000045,S08,S08_Eggs,0 days 00:01:11.366000,0 days 00:01:11.366000,0 days 00:01:28.019000,2140,2640,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
 S08_Eggs_0000047,S08,S08_Eggs,0 days 00:01:32.179000,0 days 00:01:32.179000,0 days 00:01:33.192000,2765,2795,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S08_Eggs_0000048,S08,S08_Eggs,0 days 00:01:33.192000,0 days 00:01:33.192000,0 days 00:01:44.058000,2795,3121,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S08_Eggs_0000048,S08,S08_Eggs,0 days 00:01:33.192000,0 days 00:01:33.192000,0 days 00:01:44.058000,2795,3121,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S08_Eggs_0000049,S08,S08_Eggs,0 days 00:01:44.058000,0 days 00:01:44.058000,0 days 00:01:44.895000,3121,3146,put fork bowl,put,2,fork,17,"['fork', 'bowl']","[17, 4]"
 S08_Eggs_0000050,S08,S08_Eggs,0 days 00:01:44.895000,0 days 00:01:44.895000,0 days 00:01:45.517000,3146,3165,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S08_Eggs_0000052,S08,S08_Eggs,0 days 00:01:48.595000,0 days 00:01:48.595000,0 days 00:01:49.963000,3257,3298,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -395,7 +395,7 @@ S08_Eggs_0000063,S08,S08_Eggs,0 days 00:02:04.431000,0 days 00:02:04.431000,0 da
 S08_Eggs_0000065,S08,S08_Eggs,0 days 00:02:18.171000,0 days 00:02:18.171000,0 days 00:02:25.867000,4145,4376,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
 S08_Eggs_0000066,S08,S08_Eggs,0 days 00:02:25.867000,0 days 00:02:25.867000,0 days 00:02:19.616000,4376,4188,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
 S08_Eggs_0000068,S08,S08_Eggs,0 days 00:02:48.878000,0 days 00:02:48.878000,0 days 00:02:50.918000,5066,5127,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S08_Eggs_0000069,S08,S08_Eggs,0 days 00:02:50.918000,0 days 00:02:50.918000,0 days 00:02:54.574000,5127,5237,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S08_Eggs_0000069,S08,S08_Eggs,0 days 00:02:50.918000,0 days 00:02:50.918000,0 days 00:02:54.574000,5127,5237,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S08_Eggs_0000070,S08,S08_Eggs,0 days 00:02:54.574000,0 days 00:02:54.574000,0 days 00:02:55.149000,5237,5254,put fork pan,put,2,fork,17,"['fork', 'pan']","[17, 26]"
 S08_Eggs_0000071,S08,S08_Eggs,0 days 00:02:55.149000,0 days 00:02:55.149000,0 days 00:02:57.483000,5254,5324,put pan sink,put,2,pan,26,"['pan', 'sink']","[26, 34]"
 S08_Eggs_0000072,S08,S08_Eggs,0 days 00:02:57.483000,0 days 00:02:57.483000,0 days 00:02:58.909000,5324,5367,turn-off hob,turn-off,10,hob,20,['hob'],[20]
@@ -650,7 +650,7 @@ S09_Eggs_0000055,S09,S09_Eggs,0 days 00:01:32.128000,0 days 00:01:32.128000,0 da
 S09_Eggs_0000056,S09,S09_Eggs,0 days 00:01:32.685000,0 days 00:01:32.685000,0 days 00:01:52.729000,2780,3381,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
 S09_Eggs_0000058,S09,S09_Eggs,0 days 00:01:56.006000,0 days 00:01:56.006000,0 days 00:02:03.167000,3480,3695,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
 S09_Eggs_0000059,S09,S09_Eggs,0 days 00:02:03.167000,0 days 00:02:03.167000,0 days 00:02:04.498000,3695,3734,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S09_Eggs_0000060,S09,S09_Eggs,0 days 00:02:04.498000,0 days 00:02:04.498000,0 days 00:02:14.124000,3734,4023,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S09_Eggs_0000060,S09,S09_Eggs,0 days 00:02:04.498000,0 days 00:02:04.498000,0 days 00:02:14.124000,3734,4023,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S09_Eggs_0000062,S09,S09_Eggs,0 days 00:02:15.194000,0 days 00:02:15.194000,0 days 00:02:16.599000,4055,4097,put fork top,put,2,fork,17,"['fork', 'top']","[17, 39]"
 S09_Eggs_0000063,S09,S09_Eggs,0 days 00:02:16.599000,0 days 00:02:16.599000,0 days 00:02:21.052000,4097,4231,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S09_Eggs_0000064,S09,S09_Eggs,0 days 00:02:21.052000,0 days 00:02:21.052000,0 days 00:02:23.427000,4231,4302,wash hand towel:kitchen,wash,9,hand,19,"['hand', 'towel:kitchen']","[19, 41]"
@@ -658,7 +658,7 @@ S09_Eggs_0000066,S09,S09_Eggs,0 days 00:02:25.153000,0 days 00:02:25.153000,0 da
 S09_Eggs_0000067,S09,S09_Eggs,0 days 00:02:26.293000,0 days 00:02:26.293000,0 days 00:02:34.415000,4388,4632,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
 S09_Eggs_0000069,S09,S09_Eggs,0 days 00:02:46.164000,0 days 00:02:46.164000,0 days 00:03:16.356000,4984,5890,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
 S09_Eggs_0000070,S09,S09_Eggs,0 days 00:03:16.356000,0 days 00:03:16.356000,0 days 00:03:18.287000,5890,5948,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S09_Eggs_0000071,S09,S09_Eggs,0 days 00:03:18.287000,0 days 00:03:18.287000,0 days 00:03:20.534000,5948,6016,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S09_Eggs_0000071,S09,S09_Eggs,0 days 00:03:18.287000,0 days 00:03:18.287000,0 days 00:03:20.534000,5948,6016,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S09_Eggs_0000072,S09,S09_Eggs,0 days 00:03:20.534000,0 days 00:03:20.534000,0 days 00:03:22.185000,6016,6065,put fork pan,put,2,fork,17,"['fork', 'pan']","[17, 26]"
 S09_Eggs_0000073,S09,S09_Eggs,0 days 00:03:22.185000,0 days 00:03:22.185000,0 days 00:03:26.049000,6065,6181,put pan sink,put,2,pan,26,"['pan', 'sink']","[26, 34]"
 S09_Eggs_0000074,S09,S09_Eggs,0 days 00:03:26.049000,0 days 00:03:26.049000,0 days 00:03:28.498000,6181,6254,turn-off hob,turn-off,10,hob,20,['hob'],[20]
@@ -717,7 +717,7 @@ S11_Eggs_0000051,S11,S11_Eggs,0 days 00:01:35.779000,0 days 00:01:35.779000,0 da
 S11_Eggs_0000053,S11,S11_Eggs,0 days 00:01:42.864000,0 days 00:01:42.864000,0 days 00:01:43.367000,3085,3101,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
 S11_Eggs_0000054,S11,S11_Eggs,0 days 00:01:43.367000,0 days 00:01:43.367000,0 days 00:01:43.991000,3101,3119,shake pan,shake,7,pan,26,['pan'],[26]
 S11_Eggs_0000055,S11,S11_Eggs,0 days 00:01:43.991000,0 days 00:01:43.991000,0 days 00:01:44.495000,3119,3134,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
-S11_Eggs_0000056,S11,S11_Eggs,0 days 00:01:44.495000,0 days 00:01:44.495000,0 days 00:01:53.815000,3134,3414,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S11_Eggs_0000056,S11,S11_Eggs,0 days 00:01:44.495000,0 days 00:01:44.495000,0 days 00:01:53.815000,3134,3414,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S11_Eggs_0000057,S11,S11_Eggs,0 days 00:01:53.815000,0 days 00:01:53.815000,0 days 00:01:54.500000,3414,3435,put fork bowl,put,2,fork,17,"['fork', 'bowl']","[17, 4]"
 S11_Eggs_0000058,S11,S11_Eggs,0 days 00:01:54.500000,0 days 00:01:54.500000,0 days 00:01:55.978000,3435,3479,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S11_Eggs_0000060,S11,S11_Eggs,0 days 00:02:24.230000,0 days 00:02:24.230000,0 days 00:02:25.945000,4326,4378,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
@@ -731,7 +731,7 @@ S11_Eggs_0000068,S11,S11_Eggs,0 days 00:02:47.572000,0 days 00:02:47.572000,0 da
 S11_Eggs_0000069,S11,S11_Eggs,0 days 00:02:48.852000,0 days 00:02:48.852000,0 days 00:02:58.194000,5065,5345,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
 S11_Eggs_0000070,S11,S11_Eggs,0 days 00:02:58.194000,0 days 00:02:58.194000,0 days 00:02:59.273000,5345,5378,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
 S11_Eggs_0000071,S11,S11_Eggs,0 days 00:02:59.273000,0 days 00:02:59.273000,0 days 00:03:00.904000,5378,5427,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
-S11_Eggs_0000072,S11,S11_Eggs,0 days 00:03:00.904000,0 days 00:03:00.904000,0 days 00:03:03.543000,5427,5506,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S11_Eggs_0000072,S11,S11_Eggs,0 days 00:03:00.904000,0 days 00:03:00.904000,0 days 00:03:03.543000,5427,5506,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S11_Eggs_0000074,S11,S11_Eggs,0 days 00:03:04.603000,0 days 00:03:04.603000,0 days 00:03:05.375000,5538,5561,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S11_Eggs_0000075,S11,S11_Eggs,0 days 00:03:05.375000,0 days 00:03:05.375000,0 days 00:03:06.040000,5561,5581,put fork plate,put,2,fork,17,"['fork', 'plate']","[17, 28]"
 S11_Eggs_0000076,S11,S11_Eggs,0 days 00:03:06.040000,0 days 00:03:06.040000,0 days 00:03:07.839000,5581,5635,turn-off hob,turn-off,10,hob,20,['hob'],[20]
@@ -913,7 +913,7 @@ S12_Eggs_0000046,S12,S12_Eggs,0 days 00:02:01.765000,0 days 00:02:01.765000,0 da
 S12_Eggs_0000048,S12,S12_Eggs,0 days 00:02:18.390000,0 days 00:02:18.390000,0 days 00:02:21.033000,4151,4230,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
 S12_Eggs_0000050,S12,S12_Eggs,0 days 00:02:22.078000,0 days 00:02:22.078000,0 days 00:02:23.285000,4262,4298,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S12_Eggs_0000051,S12,S12_Eggs,0 days 00:02:23.285000,0 days 00:02:23.285000,0 days 00:02:25.741000,4298,4372,put fork sink,put,2,fork,17,"['fork', 'sink']","[17, 34]"
-S12_Eggs_0000052,S12,S12_Eggs,0 days 00:02:25.741000,0 days 00:02:25.741000,0 days 00:02:35.028000,4372,4650,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S12_Eggs_0000052,S12,S12_Eggs,0 days 00:02:25.741000,0 days 00:02:25.741000,0 days 00:02:35.028000,4372,4650,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S12_Eggs_0000053,S12,S12_Eggs,0 days 00:02:35.028000,0 days 00:02:35.028000,0 days 00:02:39.823000,4650,4794,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S12_Eggs_0000054,S12,S12_Eggs,0 days 00:02:39.823000,0 days 00:02:39.823000,0 days 00:02:41.486000,4794,4844,open cupboard,open,0,cupboard,13,['cupboard'],[13]
 S12_Eggs_0000055,S12,S12_Eggs,0 days 00:02:41.486000,0 days 00:02:41.486000,0 days 00:02:43.963000,4844,4918,take plate cupboard,take,1,plate,28,"['plate', 'cupboard']","[28, 13]"
@@ -924,7 +924,7 @@ S12_Eggs_0000060,S12,S12_Eggs,0 days 00:02:54.915000,0 days 00:02:54.915000,0 da
 S12_Eggs_0000062,S12,S12_Eggs,0 days 00:03:06.390000,0 days 00:03:06.390000,0 days 00:03:28.906000,5591,6267,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
 S12_Eggs_0000064,S12,S12_Eggs,0 days 00:03:32.367000,0 days 00:03:32.367000,0 days 00:03:34.329000,6371,6429,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S12_Eggs_0000066,S12,S12_Eggs,0 days 00:03:36.887000,0 days 00:03:36.887000,0 days 00:03:38.109000,6506,6543,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S12_Eggs_0000067,S12,S12_Eggs,0 days 00:03:38.109000,0 days 00:03:38.109000,0 days 00:03:45.780000,6543,6773,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S12_Eggs_0000067,S12,S12_Eggs,0 days 00:03:38.109000,0 days 00:03:38.109000,0 days 00:03:45.780000,6543,6773,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S12_Eggs_0000068,S12,S12_Eggs,0 days 00:03:45.780000,0 days 00:03:45.780000,0 days 00:03:46.631000,6773,6798,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S12_Eggs_0000069,S12,S12_Eggs,0 days 00:03:46.631000,0 days 00:03:46.631000,0 days 00:03:51.092000,6798,6932,put fork sink,put,2,fork,17,"['fork', 'sink']","[17, 34]"
 S12_Eggs_0000070,S12,S12_Eggs,0 days 00:03:51.092000,0 days 00:03:51.092000,0 days 00:03:57.084000,6932,7112,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -1231,12 +1231,12 @@ S13_Eggs_0000101,S13,S13_Eggs,0 days 00:03:45.570000,0 days 00:03:45.570000,0 da
 S13_Eggs_0000102,S13,S13_Eggs,0 days 00:03:47.011000,0 days 00:03:47.011000,0 days 00:03:47.660000,6810,6829,take spoon bowl,take,1,spoon,36,"['spoon', 'bowl']","[36, 4]"
 S13_Eggs_0000103,S13,S13_Eggs,0 days 00:03:47.660000,0 days 00:03:47.660000,0 days 00:03:52.876000,6829,6986,mix bowl spoon,mix,6,bowl,4,"['bowl', 'spoon']","[4, 36]"
 S13_Eggs_0000105,S13,S13_Eggs,0 days 00:04:01.189000,0 days 00:04:01.189000,0 days 00:04:02.338000,7235,7270,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S13_Eggs_0000106,S13,S13_Eggs,0 days 00:04:02.338000,0 days 00:04:02.338000,0 days 00:04:31.278000,7270,8138,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S13_Eggs_0000106,S13,S13_Eggs,0 days 00:04:02.338000,0 days 00:04:02.338000,0 days 00:04:31.278000,7270,8138,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S13_Eggs_0000107,S13,S13_Eggs,0 days 00:04:31.278000,0 days 00:04:31.278000,0 days 00:04:31.924000,8138,8157,put spoon bowl,put,2,spoon,36,"['spoon', 'bowl']","[36, 4]"
 S13_Eggs_0000108,S13,S13_Eggs,0 days 00:04:31.924000,0 days 00:04:31.924000,0 days 00:04:32.640000,8157,8179,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S13_Eggs_0000110,S13,S13_Eggs,0 days 00:04:52.589000,0 days 00:04:52.589000,0 days 00:04:53.389000,8777,8801,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S13_Eggs_0000111,S13,S13_Eggs,0 days 00:04:53.389000,0 days 00:04:53.389000,0 days 00:04:53.956000,8801,8818,take spoon bowl,take,1,spoon,36,"['spoon', 'bowl']","[36, 4]"
-S13_Eggs_0000112,S13,S13_Eggs,0 days 00:04:53.956000,0 days 00:04:53.956000,0 days 00:04:57.121000,8818,8913,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S13_Eggs_0000112,S13,S13_Eggs,0 days 00:04:53.956000,0 days 00:04:53.956000,0 days 00:04:57.121000,8818,8913,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S13_Eggs_0000113,S13,S13_Eggs,0 days 00:04:57.121000,0 days 00:04:57.121000,0 days 00:04:57.628000,8913,8928,put spoon bowl,put,2,spoon,36,"['spoon', 'bowl']","[36, 4]"
 S13_Eggs_0000114,S13,S13_Eggs,0 days 00:04:57.628000,0 days 00:04:57.628000,0 days 00:04:59.275000,8928,8978,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S13_Eggs_0000116,S13,S13_Eggs,0 days 00:05:01.361000,0 days 00:05:01.361000,0 days 00:05:03.144000,9040,9094,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -1284,7 +1284,7 @@ S13_Eggs_0000165,S13,S13_Eggs,0 days 00:06:51.654000,0 days 00:06:51.654000,0 da
 S13_Eggs_0000167,S13,S13_Eggs,0 days 00:07:01.250000,0 days 00:07:01.250000,0 days 00:07:03.829000,12637,12714,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S13_Eggs_0000168,S13,S13_Eggs,0 days 00:07:03.829000,0 days 00:07:03.829000,0 days 00:07:04.916000,12714,12747,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
 S13_Eggs_0000169,S13,S13_Eggs,0 days 00:07:04.916000,0 days 00:07:04.916000,0 days 00:07:05.703000,12747,12771,take fork plate,take,1,fork,17,"['fork', 'plate']","[17, 28]"
-S13_Eggs_0000170,S13,S13_Eggs,0 days 00:07:05.703000,0 days 00:07:05.703000,0 days 00:07:07.345000,12771,12820,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S13_Eggs_0000170,S13,S13_Eggs,0 days 00:07:05.703000,0 days 00:07:05.703000,0 days 00:07:07.345000,12771,12820,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S13_Eggs_0000171,S13,S13_Eggs,0 days 00:07:07.345000,0 days 00:07:07.345000,0 days 00:07:08.055000,12820,12841,put fork plate,put,2,fork,17,"['fork', 'plate']","[17, 28]"
 S13_Eggs_0000173,S13,S13_Eggs,0 days 00:07:09.932000,0 days 00:07:09.932000,0 days 00:07:12.047000,12897,12961,put pan sink,put,2,pan,26,"['pan', 'sink']","[26, 34]"
 S13_Eggs_0000174,S13,S13_Eggs,0 days 00:07:12.047000,0 days 00:07:12.047000,0 days 00:07:13.327000,12961,12999,put spatula sink,put,2,spatula,35,"['spatula', 'sink']","[35, 34]"
@@ -1453,7 +1453,7 @@ S14_Eggs_0000067,S14,S14_Eggs,0 days 00:02:41.634000,0 days 00:02:41.634000,0 da
 S14_Eggs_0000068,S14,S14_Eggs,0 days 00:02:43.885000,0 days 00:02:43.885000,0 days 00:02:44.617000,4916,4938,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S14_Eggs_0000069,S14,S14_Eggs,0 days 00:02:44.617000,0 days 00:02:44.617000,0 days 00:02:45.145000,4938,4954,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
 S14_Eggs_0000070,S14,S14_Eggs,0 days 00:02:45.145000,0 days 00:02:45.145000,0 days 00:02:47.808000,4954,5034,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
-S14_Eggs_0000071,S14,S14_Eggs,0 days 00:02:47.808000,0 days 00:02:47.808000,0 days 00:02:57.214000,5034,5316,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S14_Eggs_0000071,S14,S14_Eggs,0 days 00:02:47.808000,0 days 00:02:47.808000,0 days 00:02:57.214000,5034,5316,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S14_Eggs_0000072,S14,S14_Eggs,0 days 00:02:57.214000,0 days 00:02:57.214000,0 days 00:02:57.793000,5316,5333,put fork bowl,put,2,fork,17,"['fork', 'bowl']","[17, 4]"
 S14_Eggs_0000073,S14,S14_Eggs,0 days 00:02:57.793000,0 days 00:02:57.793000,0 days 00:03:00.623000,5333,5418,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S14_Eggs_0000075,S14,S14_Eggs,0 days 00:03:02.145000,0 days 00:03:02.145000,0 days 00:03:03.679000,5464,5510,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -1473,7 +1473,7 @@ S14_Eggs_0000092,S14,S14_Eggs,0 days 00:05:16.572000,0 days 00:05:16.572000,0 da
 S14_Eggs_0000094,S14,S14_Eggs,0 days 00:05:22.133000,0 days 00:05:22.133000,0 days 00:05:23.724000,9663,9711,put spatula sink,put,2,spatula,35,"['spatula', 'sink']","[35, 34]"
 S14_Eggs_0000095,S14,S14_Eggs,0 days 00:05:23.724000,0 days 00:05:23.724000,0 days 00:05:25.371000,9711,9761,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S14_Eggs_0000096,S14,S14_Eggs,0 days 00:05:25.371000,0 days 00:05:25.371000,0 days 00:05:26.521000,9761,9795,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S14_Eggs_0000097,S14,S14_Eggs,0 days 00:05:26.521000,0 days 00:05:26.521000,0 days 00:05:29.384000,9795,9881,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S14_Eggs_0000097,S14,S14_Eggs,0 days 00:05:26.521000,0 days 00:05:26.521000,0 days 00:05:29.384000,9795,9881,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S14_Eggs_0000098,S14,S14_Eggs,0 days 00:05:29.384000,0 days 00:05:29.384000,0 days 00:05:37.802000,9881,10134,put pan sink,put,2,pan,26,"['pan', 'sink']","[26, 34]"
 S15_Brownie_0000001,S15,S15_Brownie,0 days 00:00:06.107000,0 days 00:00:06.107000,0 days 00:00:08.598000,183,257,open cupboard,open,0,cupboard,13,['cupboard'],[13]
 S15_Brownie_0000002,S15,S15_Brownie,0 days 00:00:08.598000,0 days 00:00:08.598000,0 days 00:00:09.876000,257,296,take bowl cupboard,take,1,bowl,4,"['bowl', 'cupboard']","[4, 13]"
@@ -1614,7 +1614,7 @@ S15_Eggs_0000042,S15,S15_Eggs,0 days 00:01:05.648000,0 days 00:01:05.648000,0 da
 S15_Eggs_0000044,S15,S15_Eggs,0 days 00:01:09.967000,0 days 00:01:09.967000,0 days 00:01:10.530000,2099,2115,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
 S15_Eggs_0000045,S15,S15_Eggs,0 days 00:01:10.530000,0 days 00:01:10.530000,0 days 00:01:11.208000,2115,2136,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S15_Eggs_0000046,S15,S15_Eggs,0 days 00:01:11.208000,0 days 00:01:11.208000,0 days 00:01:12.273000,2136,2168,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
-S15_Eggs_0000047,S15,S15_Eggs,0 days 00:01:12.273000,0 days 00:01:12.273000,0 days 00:01:17.409000,2168,2322,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S15_Eggs_0000047,S15,S15_Eggs,0 days 00:01:12.273000,0 days 00:01:12.273000,0 days 00:01:17.409000,2168,2322,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S15_Eggs_0000048,S15,S15_Eggs,0 days 00:01:17.409000,0 days 00:01:17.409000,0 days 00:01:20.767000,2322,2423,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S15_Eggs_0000050,S15,S15_Eggs,0 days 00:01:21.843000,0 days 00:01:21.843000,0 days 00:01:22.985000,2455,2489,open cupboard,open,0,cupboard,13,['cupboard'],[13]
 S15_Eggs_0000051,S15,S15_Eggs,0 days 00:01:22.985000,0 days 00:01:22.985000,0 days 00:01:23.795000,2489,2513,take plate cupboard,take,1,plate,28,"['plate', 'cupboard']","[28, 13]"
@@ -1632,7 +1632,7 @@ S15_Eggs_0000065,S15,S15_Eggs,0 days 00:02:22.213000,0 days 00:02:22.213000,0 da
 S15_Eggs_0000066,S15,S15_Eggs,0 days 00:02:22.779000,0 days 00:02:22.779000,0 days 00:02:34.919000,4283,4647,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
 S15_Eggs_0000068,S15,S15_Eggs,0 days 00:02:36.890000,0 days 00:02:36.890000,0 days 00:02:38.264000,4706,4747,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S15_Eggs_0000069,S15,S15_Eggs,0 days 00:02:38.264000,0 days 00:02:38.264000,0 days 00:02:39.525000,4747,4785,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S15_Eggs_0000070,S15,S15_Eggs,0 days 00:02:39.525000,0 days 00:02:39.525000,0 days 00:02:41.397000,4785,4841,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S15_Eggs_0000070,S15,S15_Eggs,0 days 00:02:39.525000,0 days 00:02:39.525000,0 days 00:02:41.397000,4785,4841,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S15_Eggs_0000071,S15,S15_Eggs,0 days 00:02:41.397000,0 days 00:02:41.397000,0 days 00:02:42.491000,4841,4874,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S15_Eggs_0000072,S15,S15_Eggs,0 days 00:02:42.491000,0 days 00:02:42.491000,0 days 00:02:43.467000,4874,4904,put fork pan,put,2,fork,17,"['fork', 'pan']","[17, 26]"
 S15_Eggs_0000073,S15,S15_Eggs,0 days 00:02:43.467000,0 days 00:02:43.467000,0 days 00:02:49.217000,4904,5076,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -1849,7 +1849,7 @@ S16_Eggs_0000054,S16,S16_Eggs,0 days 00:01:23.428000,0 days 00:01:23.428000,0 da
 S16_Eggs_0000055,S16,S16_Eggs,0 days 00:01:27.133000,0 days 00:01:27.133000,0 days 00:01:29.134000,2613,2674,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S16_Eggs_0000057,S16,S16_Eggs,0 days 00:01:31.339000,0 days 00:01:31.339000,0 days 00:01:32.419000,2740,2772,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S16_Eggs_0000058,S16,S16_Eggs,0 days 00:01:32.419000,0 days 00:01:32.419000,0 days 00:01:32.920000,2772,2787,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
-S16_Eggs_0000059,S16,S16_Eggs,0 days 00:01:32.920000,0 days 00:01:32.920000,0 days 00:01:36.443000,2787,2893,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S16_Eggs_0000059,S16,S16_Eggs,0 days 00:01:32.920000,0 days 00:01:32.920000,0 days 00:01:36.443000,2787,2893,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S16_Eggs_0000060,S16,S16_Eggs,0 days 00:01:36.443000,0 days 00:01:36.443000,0 days 00:01:39.015000,2893,2970,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S16_Eggs_0000061,S16,S16_Eggs,0 days 00:01:39.015000,0 days 00:01:39.015000,0 days 00:01:39.960000,2970,2998,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
 S16_Eggs_0000062,S16,S16_Eggs,0 days 00:01:39.960000,0 days 00:01:39.960000,0 days 00:01:42.655000,2998,3079,shake pan,shake,7,pan,26,['pan'],[26]
@@ -1877,7 +1877,7 @@ S16_Eggs_0000086,S16,S16_Eggs,0 days 00:02:18.923000,0 days 00:02:18.923000,0 da
 S16_Eggs_0000088,S16,S16_Eggs,0 days 00:02:21.901000,0 days 00:02:21.901000,0 days 00:03:33.319000,4257,6399,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
 S16_Eggs_0000089,S16,S16_Eggs,0 days 00:03:33.319000,0 days 00:03:33.319000,0 days 00:03:35.057000,6399,6451,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S16_Eggs_0000090,S16,S16_Eggs,0 days 00:03:35.057000,0 days 00:03:35.057000,0 days 00:03:36.211000,6451,6486,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S16_Eggs_0000091,S16,S16_Eggs,0 days 00:03:36.211000,0 days 00:03:36.211000,0 days 00:03:43.976000,6486,6719,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S16_Eggs_0000091,S16,S16_Eggs,0 days 00:03:36.211000,0 days 00:03:36.211000,0 days 00:03:43.976000,6486,6719,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S16_Eggs_0000092,S16,S16_Eggs,0 days 00:03:43.976000,0 days 00:03:43.976000,0 days 00:03:44.801000,6719,6744,put fork pan,put,2,fork,17,"['fork', 'pan']","[17, 26]"
 S16_Eggs_0000093,S16,S16_Eggs,0 days 00:03:44.801000,0 days 00:03:44.801000,0 days 00:03:53.950000,6744,7018,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S16_Sandwich_0000001,S16,S16_Sandwich,0 days 00:00:05.502000,0 days 00:00:05.502000,0 days 00:00:07.359000,165,220,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -2278,7 +2278,7 @@ S18_Eggs_0000063,S18,S18_Eggs,0 days 00:02:07.839000,0 days 00:02:07.839000,0 da
 S18_Eggs_0000065,S18,S18_Eggs,0 days 00:02:10.021000,0 days 00:02:10.021000,0 days 00:02:11.578000,3900,3947,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S18_Eggs_0000066,S18,S18_Eggs,0 days 00:02:11.578000,0 days 00:02:11.578000,0 days 00:02:12.094000,3947,3962,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
 S18_Eggs_0000067,S18,S18_Eggs,0 days 00:02:12.094000,0 days 00:02:12.094000,0 days 00:02:13.196000,3962,3995,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
-S18_Eggs_0000068,S18,S18_Eggs,0 days 00:02:13.196000,0 days 00:02:13.196000,0 days 00:02:23.131000,3995,4293,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S18_Eggs_0000068,S18,S18_Eggs,0 days 00:02:13.196000,0 days 00:02:13.196000,0 days 00:02:23.131000,3995,4293,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S18_Eggs_0000070,S18,S18_Eggs,0 days 00:02:29.848000,0 days 00:02:29.848000,0 days 00:02:30.775000,4495,4523,put fork bowl,put,2,fork,17,"['fork', 'bowl']","[17, 4]"
 S18_Eggs_0000071,S18,S18_Eggs,0 days 00:02:30.775000,0 days 00:02:30.775000,0 days 00:02:32.339000,4523,4570,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S18_Eggs_0000072,S18,S18_Eggs,0 days 00:02:32.339000,0 days 00:02:32.339000,0 days 00:02:33.715000,4570,4611,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
@@ -2311,7 +2311,7 @@ S18_Eggs_0000107,S18,S18_Eggs,0 days 00:05:30.471000,0 days 00:05:30.471000,0 da
 S18_Eggs_0000109,S18,S18_Eggs,0 days 00:05:32.721000,0 days 00:05:32.721000,0 days 00:05:33.241000,9981,9997,put fork pan,put,2,fork,17,"['fork', 'pan']","[17, 26]"
 S18_Eggs_0000110,S18,S18_Eggs,0 days 00:05:33.241000,0 days 00:05:33.241000,0 days 00:05:34.869000,9997,10046,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S18_Eggs_0000111,S18,S18_Eggs,0 days 00:05:34.869000,0 days 00:05:34.869000,0 days 00:05:35.563000,10046,10066,take fork pan,take,1,fork,17,"['fork', 'pan']","[17, 26]"
-S18_Eggs_0000112,S18,S18_Eggs,0 days 00:05:35.563000,0 days 00:05:35.563000,0 days 00:05:46.290000,10066,10388,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S18_Eggs_0000112,S18,S18_Eggs,0 days 00:05:35.563000,0 days 00:05:35.563000,0 days 00:05:46.290000,10066,10388,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S18_Eggs_0000114,S18,S18_Eggs,0 days 00:05:48.332000,0 days 00:05:48.332000,0 days 00:05:51.947000,10449,10558,put pan sink,put,2,pan,26,"['pan', 'sink']","[26, 34]"
 S18_Eggs_0000115,S18,S18_Eggs,0 days 00:05:51.947000,0 days 00:05:51.947000,0 days 00:05:53.313000,10558,10599,put fork sink,put,2,fork,17,"['fork', 'sink']","[17, 34]"
 S18_Eggs_0000117,S18,S18_Eggs,0 days 00:05:54.730000,0 days 00:05:54.730000,0 days 00:05:58.352000,10641,10750,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -2587,7 +2587,7 @@ S19_Eggs_0000102,S19,S19_Eggs,0 days 00:04:41.126000,0 days 00:04:41.126000,0 da
 S19_Eggs_0000103,S19,S19_Eggs,0 days 00:04:42.222000,0 days 00:04:42.222000,0 days 00:04:44.124000,8466,8523,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S19_Eggs_0000104,S19,S19_Eggs,0 days 00:04:44.124000,0 days 00:04:44.124000,0 days 00:04:44.640000,8523,8539,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
 S19_Eggs_0000105,S19,S19_Eggs,0 days 00:04:44.640000,0 days 00:04:44.640000,0 days 00:04:46.643000,8539,8599,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
-S19_Eggs_0000106,S19,S19_Eggs,0 days 00:04:46.643000,0 days 00:04:46.643000,0 days 00:04:56.905000,8599,8907,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S19_Eggs_0000106,S19,S19_Eggs,0 days 00:04:46.643000,0 days 00:04:46.643000,0 days 00:04:56.905000,8599,8907,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S19_Eggs_0000107,S19,S19_Eggs,0 days 00:04:56.905000,0 days 00:04:56.905000,0 days 00:04:59.827000,8907,8994,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S19_Eggs_0000109,S19,S19_Eggs,0 days 00:05:06.599000,0 days 00:05:06.599000,0 days 00:05:07.129000,9197,9213,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
 S19_Eggs_0000110,S19,S19_Eggs,0 days 00:05:07.129000,0 days 00:05:07.129000,0 days 00:05:09.015000,9213,9270,shake pan,shake,7,pan,26,['pan'],[26]
@@ -2600,7 +2600,7 @@ S19_Eggs_0000118,S19,S19_Eggs,0 days 00:05:47.450000,0 days 00:05:47.450000,0 da
 S19_Eggs_0000120,S19,S19_Eggs,0 days 00:05:49.773000,0 days 00:05:49.773000,0 days 00:06:18.493000,10493,11354,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S19_Eggs_0000122,S19,S19_Eggs,0 days 00:06:22.026000,0 days 00:06:22.026000,0 days 00:06:22.665000,11460,11479,put fork plate,put,2,fork,17,"['fork', 'plate']","[17, 28]"
 S19_Eggs_0000124,S19,S19_Eggs,0 days 00:06:23.671000,0 days 00:06:23.671000,0 days 00:06:24.661000,11510,11539,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S19_Eggs_0000125,S19,S19_Eggs,0 days 00:06:24.661000,0 days 00:06:24.661000,0 days 00:06:28.582000,11539,11657,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S19_Eggs_0000125,S19,S19_Eggs,0 days 00:06:24.661000,0 days 00:06:24.661000,0 days 00:06:28.582000,11539,11657,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S19_Eggs_0000126,S19,S19_Eggs,0 days 00:06:28.582000,0 days 00:06:28.582000,0 days 00:06:29.825000,11657,11694,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S19_Eggs_0000127,S19,S19_Eggs,0 days 00:06:29.825000,0 days 00:06:29.825000,0 days 00:06:31.983000,11694,11759,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S19_Eggs_0000128,S19,S19_Eggs,0 days 00:06:31.983000,0 days 00:06:31.983000,0 days 00:06:34.631000,11759,11838,turn-off hob,turn-off,10,hob,20,['hob'],[20]
@@ -2822,7 +2822,7 @@ S20_Eggs_0000066,S20,S20_Eggs,0 days 00:02:55.026000,0 days 00:02:55.026000,0 da
 S20_Eggs_0000067,S20,S20_Eggs,0 days 00:02:55.614000,0 days 00:02:55.614000,0 days 00:02:58.210000,5268,5346,shake pan,shake,7,pan,26,['pan'],[26]
 S20_Eggs_0000068,S20,S20_Eggs,0 days 00:02:58.210000,0 days 00:02:58.210000,0 days 00:02:58.880000,5346,5366,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S20_Eggs_0000070,S20,S20_Eggs,0 days 00:03:00.357000,0 days 00:03:00.357000,0 days 00:03:00.964000,5410,5428,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
-S20_Eggs_0000072,S20,S20_Eggs,0 days 00:03:14.781000,0 days 00:03:14.781000,0 days 00:03:32.822000,5843,6384,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S20_Eggs_0000072,S20,S20_Eggs,0 days 00:03:14.781000,0 days 00:03:14.781000,0 days 00:03:32.822000,5843,6384,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S20_Eggs_0000073,S20,S20_Eggs,0 days 00:03:32.822000,0 days 00:03:32.822000,0 days 00:03:34.885000,6384,6446,put bowl sink,put,2,bowl,4,"['bowl', 'sink']","[4, 34]"
 S20_Eggs_0000075,S20,S20_Eggs,0 days 00:03:38.027000,0 days 00:03:38.027000,0 days 00:03:41.289000,6540,6638,shake pan,shake,7,pan,26,['pan'],[26]
 S20_Eggs_0000077,S20,S20_Eggs,0 days 00:03:45.934000,0 days 00:03:45.934000,0 days 00:03:48.437000,6778,6853,shake pan,shake,7,pan,26,['pan'],[26]
@@ -2846,7 +2846,7 @@ S20_Eggs_0000099,S20,S20_Eggs,0 days 00:04:45.670000,0 days 00:04:45.670000,0 da
 S20_Eggs_0000101,S20,S20_Eggs,0 days 00:04:53.076000,0 days 00:04:53.076000,0 days 00:04:53.578000,8792,8807,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
 S20_Eggs_0000102,S20,S20_Eggs,0 days 00:04:53.578000,0 days 00:04:53.578000,0 days 00:04:55.779000,8807,8873,shake pan,shake,7,pan,26,['pan'],[26]
 S20_Eggs_0000103,S20,S20_Eggs,0 days 00:04:55.779000,0 days 00:04:55.779000,0 days 00:04:56.426000,8873,8892,take spatula plate,take,1,spatula,35,"['spatula', 'plate']","[35, 28]"
-S20_Eggs_0000104,S20,S20_Eggs,0 days 00:04:56.426000,0 days 00:04:56.426000,0 days 00:04:57.414000,8892,8922,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S20_Eggs_0000104,S20,S20_Eggs,0 days 00:04:56.426000,0 days 00:04:56.426000,0 days 00:04:57.414000,8892,8922,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S20_Eggs_0000105,S20,S20_Eggs,0 days 00:04:57.414000,0 days 00:04:57.414000,0 days 00:04:58.317000,8922,8949,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S20_Eggs_0000106,S20,S20_Eggs,0 days 00:04:58.317000,0 days 00:04:58.317000,0 days 00:05:01.006000,8949,9030,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S20_Eggs_0000107,S20,S20_Eggs,0 days 00:05:01.006000,0 days 00:05:01.006000,0 days 00:05:02.453000,9030,9073,put spatula plate,put,2,spatula,35,"['spatula', 'plate']","[35, 28]"
@@ -3370,7 +3370,7 @@ S25_Eggs_0000065,S25,S25_Eggs,0 days 00:02:17.754000,0 days 00:02:17.754000,0 da
 S25_Eggs_0000066,S25,S25_Eggs,0 days 00:02:19.815000,0 days 00:02:19.815000,0 days 00:02:20.323000,4194,4209,take fork bowl,take,1,fork,17,"['fork', 'bowl']","[17, 4]"
 S25_Eggs_0000067,S25,S25_Eggs,0 days 00:02:20.323000,0 days 00:02:20.323000,0 days 00:02:22.451000,4209,4273,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
 S25_Eggs_0000069,S25,S25_Eggs,0 days 00:02:24.885000,0 days 00:02:24.885000,0 days 00:02:27.654000,4346,4429,mix bowl fork,mix,6,bowl,4,"['bowl', 'fork']","[4, 17]"
-S25_Eggs_0000071,S25,S25_Eggs,0 days 00:02:28.507000,0 days 00:02:28.507000,0 days 00:02:40.506000,4455,4815,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S25_Eggs_0000071,S25,S25_Eggs,0 days 00:02:28.507000,0 days 00:02:28.507000,0 days 00:02:40.506000,4455,4815,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S25_Eggs_0000073,S25,S25_Eggs,0 days 00:02:42.598000,0 days 00:02:42.598000,0 days 00:02:43.531000,4877,4905,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S25_Eggs_0000074,S25,S25_Eggs,0 days 00:02:43.531000,0 days 00:02:43.531000,0 days 00:02:44.032000,4905,4920,put fork bowl,put,2,fork,17,"['fork', 'bowl']","[17, 4]"
 S25_Eggs_0000075,S25,S25_Eggs,0 days 00:02:44.032000,0 days 00:02:44.032000,0 days 00:02:45.359000,4920,4960,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -3394,7 +3394,7 @@ S25_Eggs_0000101,S25,S25_Eggs,0 days 00:04:33.529000,0 days 00:04:33.529000,0 da
 S25_Eggs_0000103,S25,S25_Eggs,0 days 00:04:51.360000,0 days 00:04:51.360000,0 days 00:05:13.717000,8740,9411,mix pan fork,mix,6,pan,26,"['pan', 'fork']","[26, 17]"
 S25_Eggs_0000104,S25,S25_Eggs,0 days 00:05:13.717000,0 days 00:05:13.717000,0 days 00:05:15.852000,9411,9475,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S25_Eggs_0000105,S25,S25_Eggs,0 days 00:05:15.852000,0 days 00:05:15.852000,0 days 00:05:16.801000,9475,9504,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S25_Eggs_0000106,S25,S25_Eggs,0 days 00:05:16.801000,0 days 00:05:16.801000,0 days 00:05:23.117000,9504,9693,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S25_Eggs_0000106,S25,S25_Eggs,0 days 00:05:16.801000,0 days 00:05:16.801000,0 days 00:05:23.117000,9504,9693,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S25_Eggs_0000107,S25,S25_Eggs,0 days 00:05:23.117000,0 days 00:05:23.117000,0 days 00:05:24.009000,9693,9720,put fork plate,put,2,fork,17,"['fork', 'plate']","[17, 28]"
 S25_Eggs_0000108,S25,S25_Eggs,0 days 00:05:24.009000,0 days 00:05:24.009000,0 days 00:05:24.829000,9720,9744,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S25_Eggs_0000109,S25,S25_Eggs,0 days 00:05:24.829000,0 days 00:05:24.829000,0 days 00:05:28.553000,9744,9856,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -3618,7 +3618,7 @@ S28_Eggs_0000063,S28,S28_Eggs,0 days 00:02:46.397000,0 days 00:02:46.397000,0 da
 S28_Eggs_0000064,S28,S28_Eggs,0 days 00:02:47.677000,0 days 00:02:47.677000,0 days 00:02:52.033000,5030,5160,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S28_Eggs_0000065,S28,S28_Eggs,0 days 00:02:52.033000,0 days 00:02:52.033000,0 days 00:02:53.144000,5160,5194,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S28_Eggs_0000067,S28,S28_Eggs,0 days 00:02:54.400000,0 days 00:02:54.400000,0 days 00:02:56.111000,5232,5283,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S28_Eggs_0000068,S28,S28_Eggs,0 days 00:02:56.111000,0 days 00:02:56.111000,0 days 00:03:12.226000,5283,5766,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S28_Eggs_0000068,S28,S28_Eggs,0 days 00:02:56.111000,0 days 00:02:56.111000,0 days 00:03:12.226000,5283,5766,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S28_Eggs_0000069,S28,S28_Eggs,0 days 00:03:12.226000,0 days 00:03:12.226000,0 days 00:03:13.800000,5766,5814,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S28_Eggs_0000070,S28,S28_Eggs,0 days 00:03:13.800000,0 days 00:03:13.800000,0 days 00:03:14.324000,5814,5829,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S28_Eggs_0000071,S28,S28_Eggs,0 days 00:03:14.324000,0 days 00:03:14.324000,0 days 00:03:16.051000,5829,5881,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
@@ -3633,7 +3633,7 @@ S28_Eggs_0000079,S28,S28_Eggs,0 days 00:04:56.789000,0 days 00:04:56.789000,0 da
 S28_Eggs_0000080,S28,S28_Eggs,0 days 00:05:10.106000,0 days 00:05:10.106000,0 days 00:05:11.889000,9303,9356,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S28_Eggs_0000081,S28,S28_Eggs,0 days 00:05:11.889000,0 days 00:05:11.889000,0 days 00:05:13.633000,9356,9408,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S28_Eggs_0000082,S28,S28_Eggs,0 days 00:05:13.633000,0 days 00:05:13.633000,0 days 00:05:15.069000,9408,9452,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S28_Eggs_0000083,S28,S28_Eggs,0 days 00:05:15.069000,0 days 00:05:15.069000,0 days 00:05:22.307000,9452,9669,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S28_Eggs_0000083,S28,S28_Eggs,0 days 00:05:15.069000,0 days 00:05:15.069000,0 days 00:05:22.307000,9452,9669,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S28_Eggs_0000084,S28,S28_Eggs,0 days 00:05:22.307000,0 days 00:05:22.307000,0 days 00:05:23.362000,9669,9700,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S28_Eggs_0000085,S28,S28_Eggs,0 days 00:05:23.362000,0 days 00:05:23.362000,0 days 00:05:25.136000,9700,9754,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S28_Eggs_0000086,S28,S28_Eggs,0 days 00:05:25.136000,0 days 00:05:25.136000,0 days 00:05:29.453000,9754,9883,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -3880,7 +3880,7 @@ S29_Eggs_0000075,S29,S29_Eggs,0 days 00:01:54.670000,0 days 00:01:54.670000,0 da
 S29_Eggs_0000076,S29,S29_Eggs,0 days 00:01:55.187000,0 days 00:01:55.187000,0 days 00:01:57.500000,3455,3525,shake pan,shake,7,pan,26,['pan'],[26]
 S29_Eggs_0000078,S29,S29_Eggs,0 days 00:01:58.311000,0 days 00:01:58.311000,0 days 00:01:58.939000,3549,3568,take whisk bowl,take,1,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S29_Eggs_0000079,S29,S29_Eggs,0 days 00:01:58.939000,0 days 00:01:58.939000,0 days 00:02:11.748000,3568,3952,mix bowl whisk,mix,6,bowl,4,"['bowl', 'whisk']","[4, 43]"
-S29_Eggs_0000080,S29,S29_Eggs,0 days 00:02:11.748000,0 days 00:02:11.748000,0 days 00:02:20.407000,3952,4212,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S29_Eggs_0000080,S29,S29_Eggs,0 days 00:02:11.748000,0 days 00:02:11.748000,0 days 00:02:20.407000,3952,4212,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S29_Eggs_0000081,S29,S29_Eggs,0 days 00:02:20.407000,0 days 00:02:20.407000,0 days 00:02:20.911000,4212,4227,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S29_Eggs_0000082,S29,S29_Eggs,0 days 00:02:20.911000,0 days 00:02:20.911000,0 days 00:02:23.033000,4227,4290,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S29_Eggs_0000083,S29,S29_Eggs,0 days 00:02:23.033000,0 days 00:02:23.033000,0 days 00:02:24.131000,4290,4323,take shell:egg top,take,1,shell:egg,33,"['shell:egg', 'top']","[33, 39]"
@@ -3897,7 +3897,7 @@ S29_Eggs_0000096,S29,S29_Eggs,0 days 00:03:21.663000,0 days 00:03:21.663000,0 da
 S29_Eggs_0000097,S29,S29_Eggs,0 days 00:03:22.170000,0 days 00:03:22.170000,0 days 00:03:22.673000,6065,6080,shake pan,shake,7,pan,26,['pan'],[26]
 S29_Eggs_0000098,S29,S29_Eggs,0 days 00:03:22.673000,0 days 00:03:22.673000,0 days 00:03:25.468000,6080,6164,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S29_Eggs_0000099,S29,S29_Eggs,0 days 00:03:25.468000,0 days 00:03:25.468000,0 days 00:03:27.022000,6164,6210,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S29_Eggs_0000100,S29,S29_Eggs,0 days 00:03:27.022000,0 days 00:03:27.022000,0 days 00:03:34.024000,6210,6420,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S29_Eggs_0000100,S29,S29_Eggs,0 days 00:03:27.022000,0 days 00:03:27.022000,0 days 00:03:34.024000,6210,6420,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S29_Eggs_0000101,S29,S29_Eggs,0 days 00:03:34.024000,0 days 00:03:34.024000,0 days 00:03:34.567000,6420,6437,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S29_Eggs_0000102,S29,S29_Eggs,0 days 00:03:34.567000,0 days 00:03:34.567000,0 days 00:03:36.508000,6437,6495,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S29_Eggs_0000103,S29,S29_Eggs,0 days 00:03:36.508000,0 days 00:03:36.508000,0 days 00:03:39.704000,6495,6591,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -4114,7 +4114,7 @@ S30_Eggs_0000058,S30,S30_Eggs,0 days 00:02:12.762000,0 days 00:02:12.762000,0 da
 S30_Eggs_0000059,S30,S30_Eggs,0 days 00:02:15.908000,0 days 00:02:15.908000,0 days 00:02:17.064000,4077,4111,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S30_Eggs_0000061,S30,S30_Eggs,0 days 00:02:18.073000,0 days 00:02:18.073000,0 days 00:02:19.168000,4142,4175,take whisk bowl,take,1,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S30_Eggs_0000062,S30,S30_Eggs,0 days 00:02:19.168000,0 days 00:02:19.168000,0 days 00:02:20.571000,4175,4217,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S30_Eggs_0000063,S30,S30_Eggs,0 days 00:02:20.571000,0 days 00:02:20.571000,0 days 00:02:30,4217,4500,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S30_Eggs_0000063,S30,S30_Eggs,0 days 00:02:20.571000,0 days 00:02:20.571000,0 days 00:02:30,4217,4500,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S30_Eggs_0000064,S30,S30_Eggs,0 days 00:02:30,0 days 00:02:30,0 days 00:02:30.505000,4500,4515,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S30_Eggs_0000065,S30,S30_Eggs,0 days 00:02:30.505000,0 days 00:02:30.505000,0 days 00:02:31.559000,4515,4546,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S30_Eggs_0000067,S30,S30_Eggs,0 days 00:02:42.145000,0 days 00:02:42.145000,0 days 00:02:43.199000,4864,4895,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -4126,7 +4126,7 @@ S30_Eggs_0000074,S30,S30_Eggs,0 days 00:02:56.273000,0 days 00:02:56.273000,0 da
 S30_Eggs_0000076,S30,S30_Eggs,0 days 00:03:18.048000,0 days 00:03:18.048000,0 days 00:04:03.795000,5941,7313,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S30_Eggs_0000078,S30,S30_Eggs,0 days 00:04:05.544000,0 days 00:04:05.544000,0 days 00:04:07.218000,7366,7416,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S30_Eggs_0000079,S30,S30_Eggs,0 days 00:04:07.218000,0 days 00:04:07.218000,0 days 00:04:08.867000,7416,7466,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S30_Eggs_0000080,S30,S30_Eggs,0 days 00:04:08.867000,0 days 00:04:08.867000,0 days 00:04:14.092000,7466,7622,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S30_Eggs_0000080,S30,S30_Eggs,0 days 00:04:08.867000,0 days 00:04:08.867000,0 days 00:04:14.092000,7466,7622,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S30_Eggs_0000081,S30,S30_Eggs,0 days 00:04:14.092000,0 days 00:04:14.092000,0 days 00:04:15.332000,7622,7659,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S30_Eggs_0000082,S30,S30_Eggs,0 days 00:04:15.332000,0 days 00:04:15.332000,0 days 00:04:16.810000,7659,7704,put spatula top,put,2,spatula,35,"['spatula', 'top']","[35, 39]"
 S30_Eggs_0000084,S30,S30_Eggs,0 days 00:04:18.039000,0 days 00:04:18.039000,0 days 00:04:20.966000,7741,7828,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -4354,7 +4354,7 @@ S31_Eggs_0000072,S31,S31_Eggs,0 days 00:03:44.877000,0 days 00:03:44.877000,0 da
 S31_Eggs_0000073,S31,S31_Eggs,0 days 00:03:46.657000,0 days 00:03:46.657000,0 days 00:03:47.831000,6799,6834,close cupboard,close,3,cupboard,13,['cupboard'],[13]
 S31_Eggs_0000074,S31,S31_Eggs,0 days 00:03:47.831000,0 days 00:03:47.831000,0 days 00:03:48.600000,6834,6858,put plate top,put,2,plate,28,"['plate', 'top']","[28, 39]"
 S31_Eggs_0000075,S31,S31_Eggs,0 days 00:03:48.600000,0 days 00:03:48.600000,0 days 00:03:52.693000,6858,6980,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S31_Eggs_0000076,S31,S31_Eggs,0 days 00:03:52.693000,0 days 00:03:52.693000,0 days 00:03:58.832000,6980,7164,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S31_Eggs_0000076,S31,S31_Eggs,0 days 00:03:52.693000,0 days 00:03:52.693000,0 days 00:03:58.832000,6980,7164,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S31_Eggs_0000077,S31,S31_Eggs,0 days 00:03:58.832000,0 days 00:03:58.832000,0 days 00:04:00.832000,7164,7224,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S31_Eggs_0000078,S31,S31_Eggs,0 days 00:04:00.832000,0 days 00:04:00.832000,0 days 00:04:01.902000,7224,7257,take spatula top,take,1,spatula,35,"['spatula', 'top']","[35, 39]"
 S31_Eggs_0000080,S31,S31_Eggs,0 days 00:04:05.166000,0 days 00:04:05.166000,0 days 00:04:23.842000,7354,7915,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
@@ -4364,7 +4364,7 @@ S31_Eggs_0000084,S31,S31_Eggs,0 days 00:06:07.047000,0 days 00:06:07.047000,0 da
 S31_Eggs_0000086,S31,S31_Eggs,0 days 00:06:11.822000,0 days 00:06:11.822000,0 days 00:06:13.141000,11154,11194,put spatula top,put,2,spatula,35,"['spatula', 'top']","[35, 39]"
 S31_Eggs_0000088,S31,S31_Eggs,0 days 00:06:14.814000,0 days 00:06:14.814000,0 days 00:06:16.441000,11244,11293,take spatula top,take,1,spatula,35,"['spatula', 'top']","[35, 39]"
 S31_Eggs_0000089,S31,S31_Eggs,0 days 00:06:16.441000,0 days 00:06:16.441000,0 days 00:06:17.759000,11293,11332,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S31_Eggs_0000091,S31,S31_Eggs,0 days 00:06:20.021000,0 days 00:06:20.021000,0 days 00:06:29.020000,11400,11670,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S31_Eggs_0000091,S31,S31_Eggs,0 days 00:06:20.021000,0 days 00:06:20.021000,0 days 00:06:29.020000,11400,11670,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S31_Eggs_0000093,S31,S31_Eggs,0 days 00:06:31.027000,0 days 00:06:31.027000,0 days 00:06:33.368000,11730,11801,put spatula sink,put,2,spatula,35,"['spatula', 'sink']","[35, 34]"
 S31_Eggs_0000094,S31,S31_Eggs,0 days 00:06:33.368000,0 days 00:06:33.368000,0 days 00:06:36.234000,11801,11887,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S31_Eggs_0000096,S31,S31_Eggs,0 days 00:06:37.884000,0 days 00:06:37.884000,0 days 00:06:39.196000,11936,11975,take cellar:salt top,take,1,cellar:salt,10,"['cellar:salt', 'top']","[10, 39]"
@@ -4589,7 +4589,7 @@ S32_Eggs_0000070,S32,S32_Eggs,0 days 00:02:11.620000,0 days 00:02:11.620000,0 da
 S32_Eggs_0000071,S32,S32_Eggs,0 days 00:02:13.115000,0 days 00:02:13.115000,0 days 00:02:14.463000,3993,4033,take whisk bowl,take,1,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S32_Eggs_0000073,S32,S32_Eggs,0 days 00:02:15.491000,0 days 00:02:15.491000,0 days 00:02:16.015000,4064,4080,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S32_Eggs_0000074,S32,S32_Eggs,0 days 00:02:16.015000,0 days 00:02:16.015000,0 days 00:02:17.543000,4080,4126,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S32_Eggs_0000075,S32,S32_Eggs,0 days 00:02:17.543000,0 days 00:02:17.543000,0 days 00:02:23.490000,4126,4304,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S32_Eggs_0000075,S32,S32_Eggs,0 days 00:02:17.543000,0 days 00:02:17.543000,0 days 00:02:23.490000,4126,4304,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S32_Eggs_0000076,S32,S32_Eggs,0 days 00:02:23.490000,0 days 00:02:23.490000,0 days 00:02:26.691000,4304,4400,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S32_Eggs_0000078,S32,S32_Eggs,0 days 00:02:29.100000,0 days 00:02:29.100000,0 days 00:02:30.224000,4473,4506,take spatula top,take,1,spatula,35,"['spatula', 'top']","[35, 39]"
 S32_Eggs_0000079,S32,S32_Eggs,0 days 00:02:30.224000,0 days 00:02:30.224000,0 days 00:02:32.522000,4506,4575,shake pan,shake,7,pan,26,['pan'],[26]
@@ -4618,7 +4618,7 @@ S32_Eggs_0000111,S32,S32_Eggs,0 days 00:04:26.584000,0 days 00:04:26.584000,0 da
 S32_Eggs_0000113,S32,S32_Eggs,0 days 00:04:33.859000,0 days 00:04:33.859000,0 days 00:04:35.002000,8215,8250,put spatula top,put,2,spatula,35,"['spatula', 'top']","[35, 39]"
 S32_Eggs_0000114,S32,S32_Eggs,0 days 00:04:35.002000,0 days 00:04:35.002000,0 days 00:04:36.603000,8250,8298,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S32_Eggs_0000115,S32,S32_Eggs,0 days 00:04:36.603000,0 days 00:04:36.603000,0 days 00:04:37.623000,8298,8328,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S32_Eggs_0000116,S32,S32_Eggs,0 days 00:04:37.623000,0 days 00:04:37.623000,0 days 00:04:40.308000,8328,8409,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S32_Eggs_0000116,S32,S32_Eggs,0 days 00:04:37.623000,0 days 00:04:37.623000,0 days 00:04:40.308000,8328,8409,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S32_Eggs_0000117,S32,S32_Eggs,0 days 00:04:40.308000,0 days 00:04:40.308000,0 days 00:04:43.952000,8409,8518,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S32_Sandwich_0000001,S32,S32_Sandwich,0 days 00:00:05.731000,0 days 00:00:05.731000,0 days 00:00:09.433000,171,282,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
 S32_Sandwich_0000002,S32,S32_Sandwich,0 days 00:00:09.433000,0 days 00:00:09.433000,0 days 00:00:10.925000,282,327,open fridge,open,0,fridge,18,['fridge'],[18]
@@ -4980,7 +4980,7 @@ S34_Eggs_0000090,S34,S34_Eggs,0 days 00:03:17.724000,0 days 00:03:17.724000,0 da
 S34_Eggs_0000092,S34,S34_Eggs,0 days 00:03:23.707000,0 days 00:03:23.707000,0 days 00:03:25.282000,6111,6158,take whisk bowl,take,1,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S34_Eggs_0000093,S34,S34_Eggs,0 days 00:03:25.282000,0 days 00:03:25.282000,0 days 00:03:32.382000,6158,6371,mix bowl whisk,mix,6,bowl,4,"['bowl', 'whisk']","[4, 43]"
 S34_Eggs_0000094,S34,S34_Eggs,0 days 00:03:32.382000,0 days 00:03:32.382000,0 days 00:03:34.972000,6371,6449,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S34_Eggs_0000095,S34,S34_Eggs,0 days 00:03:34.972000,0 days 00:03:34.972000,0 days 00:03:47.295000,6449,6818,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S34_Eggs_0000095,S34,S34_Eggs,0 days 00:03:34.972000,0 days 00:03:34.972000,0 days 00:03:47.295000,6449,6818,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S34_Eggs_0000096,S34,S34_Eggs,0 days 00:03:47.295000,0 days 00:03:47.295000,0 days 00:03:47.816000,6818,6834,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S34_Eggs_0000097,S34,S34_Eggs,0 days 00:03:47.816000,0 days 00:03:47.816000,0 days 00:03:48.380000,6834,6851,take spatula top,take,1,spatula,35,"['spatula', 'top']","[35, 39]"
 S34_Eggs_0000098,S34,S34_Eggs,0 days 00:03:48.380000,0 days 00:03:48.380000,0 days 00:03:48.975000,6851,6869,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
@@ -4990,7 +4990,7 @@ S34_Eggs_0000102,S34,S34_Eggs,0 days 00:05:14.621000,0 days 00:05:14.621000,0 da
 S34_Eggs_0000104,S34,S34_Eggs,0 days 00:05:19.469000,0 days 00:05:19.469000,0 days 00:05:20.236000,9584,9607,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
 S34_Eggs_0000105,S34,S34_Eggs,0 days 00:05:20.236000,0 days 00:05:20.236000,0 days 00:05:21.266000,9607,9637,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S34_Eggs_0000106,S34,S34_Eggs,0 days 00:05:21.266000,0 days 00:05:21.266000,0 days 00:05:22.271000,9637,9668,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S34_Eggs_0000107,S34,S34_Eggs,0 days 00:05:22.271000,0 days 00:05:22.271000,0 days 00:05:28.514000,9668,9855,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S34_Eggs_0000107,S34,S34_Eggs,0 days 00:05:22.271000,0 days 00:05:22.271000,0 days 00:05:28.514000,9668,9855,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S34_Eggs_0000108,S34,S34_Eggs,0 days 00:05:28.514000,0 days 00:05:28.514000,0 days 00:05:29.173000,9855,9875,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S34_Eggs_0000109,S34,S34_Eggs,0 days 00:05:29.173000,0 days 00:05:29.173000,0 days 00:05:29.704000,9875,9891,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S34_Eggs_0000110,S34,S34_Eggs,0 days 00:05:29.704000,0 days 00:05:29.704000,0 days 00:05:38.773000,9891,10163,turn-off hob,turn-off,10,hob,20,['hob'],[20]
@@ -5182,7 +5182,7 @@ S35_Eggs_0000054,S35,S35_Eggs,0 days 00:01:57.187000,0 days 00:01:57.187000,0 da
 S35_Eggs_0000055,S35,S35_Eggs,0 days 00:01:58.345000,0 days 00:01:58.345000,0 days 00:02:16.360000,3550,4090,mix bowl whisk,mix,6,bowl,4,"['bowl', 'whisk']","[4, 43]"
 S35_Eggs_0000057,S35,S35_Eggs,0 days 00:02:20.558000,0 days 00:02:20.558000,0 days 00:02:22.045000,4216,4261,put whisk top,put,2,whisk,43,"['whisk', 'top']","[43, 39]"
 S35_Eggs_0000058,S35,S35_Eggs,0 days 00:02:22.045000,0 days 00:02:22.045000,0 days 00:02:23.610000,4261,4308,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S35_Eggs_0000059,S35,S35_Eggs,0 days 00:02:23.610000,0 days 00:02:23.610000,0 days 00:02:28.546000,4308,4456,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S35_Eggs_0000059,S35,S35_Eggs,0 days 00:02:23.610000,0 days 00:02:23.610000,0 days 00:02:28.546000,4308,4456,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S35_Eggs_0000060,S35,S35_Eggs,0 days 00:02:28.546000,0 days 00:02:28.546000,0 days 00:02:30.826000,4456,4524,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S35_Eggs_0000061,S35,S35_Eggs,0 days 00:02:30.826000,0 days 00:02:30.826000,0 days 00:02:32.985000,4524,4589,open drawer,open,0,drawer,15,['drawer'],[15]
 S35_Eggs_0000062,S35,S35_Eggs,0 days 00:02:32.985000,0 days 00:02:32.985000,0 days 00:02:35.685000,4589,4670,take spatula drawer,take,1,spatula,35,"['spatula', 'drawer']","[35, 15]"
@@ -5201,7 +5201,7 @@ S35_Eggs_0000076,S35,S35_Eggs,0 days 00:03:09.228000,0 days 00:03:09.228000,0 da
 S35_Eggs_0000077,S35,S35_Eggs,0 days 00:04:15.348000,0 days 00:04:15.348000,0 days 00:04:17.521000,7660,7725,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S35_Eggs_0000078,S35,S35_Eggs,0 days 00:04:17.521000,0 days 00:04:17.521000,0 days 00:04:20.358000,7725,7810,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S35_Eggs_0000079,S35,S35_Eggs,0 days 00:04:20.358000,0 days 00:04:20.358000,0 days 00:04:21.435000,7810,7843,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S35_Eggs_0000080,S35,S35_Eggs,0 days 00:04:21.435000,0 days 00:04:21.435000,0 days 00:04:24.127000,7843,7923,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S35_Eggs_0000080,S35,S35_Eggs,0 days 00:04:21.435000,0 days 00:04:21.435000,0 days 00:04:24.127000,7843,7923,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S35_Eggs_0000081,S35,S35_Eggs,0 days 00:04:24.127000,0 days 00:04:24.127000,0 days 00:04:25.922000,7923,7977,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S35_Eggs_0000083,S35,S35_Eggs,0 days 00:04:27.952000,0 days 00:04:27.952000,0 days 00:04:32.579000,8038,8177,put spatula plate,put,2,spatula,35,"['spatula', 'plate']","[35, 28]"
 S35_Sandwich_0000001,S35,S35_Sandwich,0 days 00:00:07.915000,0 days 00:00:07.915000,0 days 00:00:10.961000,237,328,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -5436,7 +5436,7 @@ S36_Eggs_0000077,S36,S36_Eggs,0 days 00:03:54.132000,0 days 00:03:54.132000,0 da
 S36_Eggs_0000078,S36,S36_Eggs,0 days 00:03:55.840000,0 days 00:03:55.840000,0 days 00:04:00.658000,7075,7219,fill oil pan sink,fill,5,oil,24,"['oil', 'pan', 'sink']","[24, 26, 34]"
 S36_Eggs_0000079,S36,S36_Eggs,0 days 00:04:00.658000,0 days 00:04:00.658000,0 days 00:04:03.115000,7219,7293,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S36_Eggs_0000080,S36,S36_Eggs,0 days 00:04:03.115000,0 days 00:04:03.115000,0 days 00:04:06.047000,7293,7381,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S36_Eggs_0000081,S36,S36_Eggs,0 days 00:04:06.047000,0 days 00:04:06.047000,0 days 00:04:15.123000,7381,7653,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S36_Eggs_0000081,S36,S36_Eggs,0 days 00:04:06.047000,0 days 00:04:06.047000,0 days 00:04:15.123000,7381,7653,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S36_Eggs_0000082,S36,S36_Eggs,0 days 00:04:15.123000,0 days 00:04:15.123000,0 days 00:04:18.645000,7653,7759,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S36_Eggs_0000084,S36,S36_Eggs,0 days 00:04:33.034000,0 days 00:04:33.034000,0 days 00:04:36.374000,8191,8291,shake pan,shake,7,pan,26,['pan'],[26]
 S36_Eggs_0000086,S36,S36_Eggs,0 days 00:04:49.256000,0 days 00:04:49.256000,0 days 00:04:50.752000,8677,8722,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -5451,7 +5451,7 @@ S36_Eggs_0000096,S36,S36_Eggs,0 days 00:05:41.843000,0 days 00:05:41.843000,0 da
 S36_Eggs_0000098,S36,S36_Eggs,0 days 00:05:56.729000,0 days 00:05:56.729000,0 days 00:06:11.631000,10701,11148,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S36_Eggs_0000100,S36,S36_Eggs,0 days 00:06:20.403000,0 days 00:06:20.403000,0 days 00:07:00.656000,11412,12619,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S36_Eggs_0000101,S36,S36_Eggs,0 days 00:07:00.656000,0 days 00:07:00.656000,0 days 00:07:02.513000,12619,12675,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S36_Eggs_0000102,S36,S36_Eggs,0 days 00:07:02.513000,0 days 00:07:02.513000,0 days 00:07:15.336000,12675,13060,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S36_Eggs_0000102,S36,S36_Eggs,0 days 00:07:02.513000,0 days 00:07:02.513000,0 days 00:07:15.336000,12675,13060,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S36_Eggs_0000103,S36,S36_Eggs,0 days 00:07:15.336000,0 days 00:07:15.336000,0 days 00:07:16.387000,13060,13091,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S36_Eggs_0000104,S36,S36_Eggs,0 days 00:07:16.387000,0 days 00:07:16.387000,0 days 00:07:17.556000,13091,13126,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S36_Eggs_0000105,S36,S36_Eggs,0 days 00:07:17.556000,0 days 00:07:17.556000,0 days 00:07:23.283000,13126,13298,turn-off hob,turn-off,10,hob,20,['hob'],[20]
@@ -5787,7 +5787,7 @@ S40_Eggs_0000078,S40,S40_Eggs,0 days 00:02:56.510000,0 days 00:02:56.510000,0 da
 S40_Eggs_0000079,S40,S40_Eggs,0 days 00:02:57.444000,0 days 00:02:57.444000,0 days 00:02:58.809000,5323,5364,take spatula drawer,take,1,spatula,35,"['spatula', 'drawer']","[35, 15]"
 S40_Eggs_0000080,S40,S40_Eggs,0 days 00:02:58.809000,0 days 00:02:58.809000,0 days 00:03:00.032000,5364,5400,close drawer,close,3,drawer,15,['drawer'],[15]
 S40_Eggs_0000081,S40,S40_Eggs,0 days 00:03:00.032000,0 days 00:03:00.032000,0 days 00:03:01.967000,5400,5459,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S40_Eggs_0000082,S40,S40_Eggs,0 days 00:03:01.967000,0 days 00:03:01.967000,0 days 00:03:13.815000,5459,5814,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S40_Eggs_0000082,S40,S40_Eggs,0 days 00:03:01.967000,0 days 00:03:01.967000,0 days 00:03:13.815000,5459,5814,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S40_Eggs_0000083,S40,S40_Eggs,0 days 00:03:13.815000,0 days 00:03:13.815000,0 days 00:03:15.187000,5814,5855,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S40_Eggs_0000084,S40,S40_Eggs,0 days 00:03:15.187000,0 days 00:03:15.187000,0 days 00:03:19.058000,5855,5971,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S40_Eggs_0000086,S40,S40_Eggs,0 days 00:03:20.527000,0 days 00:03:20.527000,0 days 00:03:29.100000,6015,6273,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
@@ -5798,7 +5798,7 @@ S40_Eggs_0000092,S40,S40_Eggs,0 days 00:04:55.550000,0 days 00:04:55.550000,0 da
 S40_Eggs_0000093,S40,S40_Eggs,0 days 00:04:56.056000,0 days 00:04:56.056000,0 days 00:04:57.711000,8881,8931,close cupboard,close,3,cupboard,13,['cupboard'],[13]
 S40_Eggs_0000094,S40,S40_Eggs,0 days 00:04:57.711000,0 days 00:04:57.711000,0 days 00:05:03.467000,8931,9104,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S40_Eggs_0000095,S40,S40_Eggs,0 days 00:05:03.467000,0 days 00:05:03.467000,0 days 00:05:05.216000,9104,9156,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S40_Eggs_0000096,S40,S40_Eggs,0 days 00:05:05.216000,0 days 00:05:05.216000,0 days 00:05:11.682000,9156,9350,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S40_Eggs_0000096,S40,S40_Eggs,0 days 00:05:05.216000,0 days 00:05:05.216000,0 days 00:05:11.682000,9156,9350,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S40_Eggs_0000097,S40,S40_Eggs,0 days 00:05:11.682000,0 days 00:05:11.682000,0 days 00:05:13.898000,9350,9416,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S40_Eggs_0000098,S40,S40_Eggs,0 days 00:05:13.898000,0 days 00:05:13.898000,0 days 00:05:15.902000,9416,9477,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S40_Eggs_0000099,S40,S40_Eggs,0 days 00:05:15.902000,0 days 00:05:15.902000,0 days 00:05:22.364000,9477,9670,put spatula sink,put,2,spatula,35,"['spatula', 'sink']","[35, 34]"
@@ -6111,13 +6111,13 @@ S47_Eggs_0000063,S47,S47_Eggs,0 days 00:02:54.855000,0 days 00:02:54.855000,0 da
 S47_Eggs_0000064,S47,S47_Eggs,0 days 00:02:56.297000,0 days 00:02:56.297000,0 days 00:02:57.518000,5288,5325,shake pan,shake,7,pan,26,['pan'],[26]
 S47_Eggs_0000065,S47,S47_Eggs,0 days 00:02:57.518000,0 days 00:02:57.518000,0 days 00:02:58.597000,5325,5357,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S47_Eggs_0000067,S47,S47_Eggs,0 days 00:03:18.121000,0 days 00:03:18.121000,0 days 00:03:20.276000,5943,6008,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S47_Eggs_0000068,S47,S47_Eggs,0 days 00:03:20.276000,0 days 00:03:20.276000,0 days 00:03:31.880000,6008,6356,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S47_Eggs_0000068,S47,S47_Eggs,0 days 00:03:20.276000,0 days 00:03:20.276000,0 days 00:03:31.880000,6008,6356,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S47_Eggs_0000069,S47,S47_Eggs,0 days 00:03:31.880000,0 days 00:03:31.880000,0 days 00:03:33.483000,6356,6404,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S47_Eggs_0000070,S47,S47_Eggs,0 days 00:03:33.483000,0 days 00:03:33.483000,0 days 00:03:35.222000,6404,6456,take spatula top,take,1,spatula,35,"['spatula', 'top']","[35, 39]"
 S47_Eggs_0000072,S47,S47_Eggs,0 days 00:04:00.846000,0 days 00:04:00.846000,0 days 00:05:46.443000,7225,10393,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S47_Eggs_0000073,S47,S47_Eggs,0 days 00:05:46.443000,0 days 00:05:46.443000,0 days 00:05:47.958000,10393,10438,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S47_Eggs_0000074,S47,S47_Eggs,0 days 00:05:47.958000,0 days 00:05:47.958000,0 days 00:05:50.569000,10438,10517,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S47_Eggs_0000075,S47,S47_Eggs,0 days 00:05:50.569000,0 days 00:05:50.569000,0 days 00:05:56.686000,10517,10700,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S47_Eggs_0000075,S47,S47_Eggs,0 days 00:05:50.569000,0 days 00:05:50.569000,0 days 00:05:56.686000,10517,10700,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S47_Eggs_0000076,S47,S47_Eggs,0 days 00:05:56.686000,0 days 00:05:56.686000,0 days 00:05:58.702000,10700,10761,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S47_Eggs_0000077,S47,S47_Eggs,0 days 00:05:58.702000,0 days 00:05:58.702000,0 days 00:06:00.022000,10761,10800,put spatula bowl,put,2,spatula,35,"['spatula', 'bowl']","[35, 4]"
 S47_Eggs_0000079,S47,S47_Eggs,0 days 00:06:09.608000,0 days 00:06:09.608000,0 days 00:06:12.319000,11088,11169,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -6338,7 +6338,7 @@ S48_Eggs_0000057,S48,S48_Eggs,0 days 00:02:12.373000,0 days 00:02:12.373000,0 da
 S48_Eggs_0000058,S48,S48_Eggs,0 days 00:02:13.180000,0 days 00:02:13.180000,0 days 00:02:14.446000,3995,4033,take whisk bowl,take,1,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S48_Eggs_0000059,S48,S48_Eggs,0 days 00:02:14.446000,0 days 00:02:14.446000,0 days 00:02:15.112000,4033,4053,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S48_Eggs_0000060,S48,S48_Eggs,0 days 00:02:15.112000,0 days 00:02:15.112000,0 days 00:02:17.560000,4053,4126,mix bowl whisk,mix,6,bowl,4,"['bowl', 'whisk']","[4, 43]"
-S48_Eggs_0000062,S48,S48_Eggs,0 days 00:02:18.965000,0 days 00:02:18.965000,0 days 00:02:25.465000,4168,4363,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S48_Eggs_0000062,S48,S48_Eggs,0 days 00:02:18.965000,0 days 00:02:18.965000,0 days 00:02:25.465000,4168,4363,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S48_Eggs_0000063,S48,S48_Eggs,0 days 00:02:25.465000,0 days 00:02:25.465000,0 days 00:02:28.269000,4363,4448,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S48_Eggs_0000064,S48,S48_Eggs,0 days 00:02:28.269000,0 days 00:02:28.269000,0 days 00:02:30.234000,4448,4507,open cupboard,open,0,cupboard,13,['cupboard'],[13]
 S48_Eggs_0000065,S48,S48_Eggs,0 days 00:02:30.234000,0 days 00:02:30.234000,0 days 00:02:32.210000,4507,4566,take plate cupboard,take,1,plate,28,"['plate', 'cupboard']","[28, 13]"
@@ -6367,7 +6367,7 @@ S48_Eggs_0000095,S48,S48_Eggs,0 days 00:05:33.946000,0 days 00:05:33.946000,0 da
 S48_Eggs_0000096,S48,S48_Eggs,0 days 00:05:34.513000,0 days 00:05:34.513000,0 days 00:05:36.319000,10035,10089,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S48_Eggs_0000097,S48,S48_Eggs,0 days 00:05:36.319000,0 days 00:05:36.319000,0 days 00:05:37.166000,10089,10114,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
 S48_Eggs_0000098,S48,S48_Eggs,0 days 00:05:37.166000,0 days 00:05:37.166000,0 days 00:05:38.165000,10114,10144,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S48_Eggs_0000099,S48,S48_Eggs,0 days 00:05:38.165000,0 days 00:05:38.165000,0 days 00:05:41.746000,10144,10252,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S48_Eggs_0000099,S48,S48_Eggs,0 days 00:05:38.165000,0 days 00:05:38.165000,0 days 00:05:41.746000,10144,10252,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S48_Eggs_0000100,S48,S48_Eggs,0 days 00:05:41.746000,0 days 00:05:41.746000,0 days 00:05:42.899000,10252,10286,put pan plate,put,2,pan,26,"['pan', 'plate']","[26, 28]"
 S48_Eggs_0000101,S48,S48_Eggs,0 days 00:05:42.899000,0 days 00:05:42.899000,0 days 00:05:47.799000,10286,10433,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S49_Eggs_0000001,S49,S49_Eggs,0 days 00:00:06.560000,0 days 00:00:06.560000,0 days 00:00:11.848000,196,355,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -6431,7 +6431,7 @@ S49_Eggs_0000065,S49,S49_Eggs,0 days 00:03:44.252000,0 days 00:03:44.252000,0 da
 S49_Eggs_0000066,S49,S49_Eggs,0 days 00:03:46.379000,0 days 00:03:46.379000,0 days 00:03:47.453000,6791,6823,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
 S49_Eggs_0000067,S49,S49_Eggs,0 days 00:03:47.453000,0 days 00:03:47.453000,0 days 00:03:48.566000,6823,6856,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S49_Eggs_0000069,S49,S49_Eggs,0 days 00:03:49.683000,0 days 00:03:49.683000,0 days 00:03:51.838000,6890,6955,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
-S49_Eggs_0000070,S49,S49_Eggs,0 days 00:03:51.838000,0 days 00:03:51.838000,0 days 00:04:02.341000,6955,7270,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S49_Eggs_0000070,S49,S49_Eggs,0 days 00:03:51.838000,0 days 00:03:51.838000,0 days 00:04:02.341000,6955,7270,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S49_Eggs_0000071,S49,S49_Eggs,0 days 00:04:02.341000,0 days 00:04:02.341000,0 days 00:04:05.102000,7270,7353,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S49_Eggs_0000073,S49,S49_Eggs,0 days 00:04:08.870000,0 days 00:04:08.870000,0 days 00:04:09.597000,7466,7487,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
 S49_Eggs_0000074,S49,S49_Eggs,0 days 00:04:09.597000,0 days 00:04:09.597000,0 days 00:04:11.723000,7487,7551,shake pan,shake,7,pan,26,['pan'],[26]
@@ -6448,7 +6448,7 @@ S49_Eggs_0000090,S49,S49_Eggs,0 days 00:05:56.041000,0 days 00:05:56.041000,0 da
 S49_Eggs_0000092,S49,S49_Eggs,0 days 00:06:03.111000,0 days 00:06:03.111000,0 days 00:06:04.778000,10893,10943,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S49_Eggs_0000093,S49,S49_Eggs,0 days 00:06:04.778000,0 days 00:06:04.778000,0 days 00:06:05.830000,10943,10974,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
 S49_Eggs_0000094,S49,S49_Eggs,0 days 00:06:05.830000,0 days 00:06:05.830000,0 days 00:06:06.848000,10974,11005,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S49_Eggs_0000095,S49,S49_Eggs,0 days 00:06:06.848000,0 days 00:06:06.848000,0 days 00:06:21.177000,11005,11435,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S49_Eggs_0000095,S49,S49_Eggs,0 days 00:06:06.848000,0 days 00:06:06.848000,0 days 00:06:21.177000,11005,11435,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S49_Eggs_0000096,S49,S49_Eggs,0 days 00:06:21.177000,0 days 00:06:21.177000,0 days 00:06:22.347000,11435,11470,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S49_Eggs_0000097,S49,S49_Eggs,0 days 00:06:22.347000,0 days 00:06:22.347000,0 days 00:06:31.539000,11470,11746,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S49_Sandwich_0000001,S49,S49_Sandwich,0 days 00:00:07.018000,0 days 00:00:07.018000,0 days 00:00:10.667000,210,320,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -6663,7 +6663,7 @@ S50_Eggs_0000062,S50,S50_Eggs,0 days 00:02:32.956000,0 days 00:02:32.956000,0 da
 S50_Eggs_0000063,S50,S50_Eggs,0 days 00:02:33.885000,0 days 00:02:33.885000,0 days 00:02:45.683000,4616,4970,mix bowl whisk,mix,6,bowl,4,"['bowl', 'whisk']","[4, 43]"
 S50_Eggs_0000065,S50,S50_Eggs,0 days 00:02:48.344000,0 days 00:02:48.344000,0 days 00:02:49.436000,5050,5083,put whisk top,put,2,whisk,43,"['whisk', 'top']","[43, 39]"
 S50_Eggs_0000066,S50,S50_Eggs,0 days 00:02:49.436000,0 days 00:02:49.436000,0 days 00:02:51.801000,5083,5154,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S50_Eggs_0000068,S50,S50_Eggs,0 days 00:02:54.008000,0 days 00:02:54.008000,0 days 00:03:07.358000,5220,5620,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S50_Eggs_0000068,S50,S50_Eggs,0 days 00:02:54.008000,0 days 00:02:54.008000,0 days 00:03:07.358000,5220,5620,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S50_Eggs_0000069,S50,S50_Eggs,0 days 00:03:07.358000,0 days 00:03:07.358000,0 days 00:03:08.748000,5620,5662,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S50_Eggs_0000071,S50,S50_Eggs,0 days 00:03:10.189000,0 days 00:03:10.189000,0 days 00:03:11.124000,5705,5733,open drawer,open,0,drawer,15,['drawer'],[15]
 S50_Eggs_0000072,S50,S50_Eggs,0 days 00:03:11.124000,0 days 00:03:11.124000,0 days 00:03:12.356000,5733,5770,take spatula drawer,take,1,spatula,35,"['spatula', 'drawer']","[35, 15]"
@@ -6677,7 +6677,7 @@ S50_Eggs_0000080,S50,S50_Eggs,0 days 00:04:14.829000,0 days 00:04:14.829000,0 da
 S50_Eggs_0000081,S50,S50_Eggs,0 days 00:04:15.620000,0 days 00:04:15.620000,0 days 00:04:16.186000,7668,7685,put plate top,put,2,plate,28,"['plate', 'top']","[28, 39]"
 S50_Eggs_0000082,S50,S50_Eggs,0 days 00:04:16.186000,0 days 00:04:16.186000,0 days 00:04:17.213000,7685,7716,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
 S50_Eggs_0000083,S50,S50_Eggs,0 days 00:04:17.213000,0 days 00:04:17.213000,0 days 00:04:18.318000,7716,7749,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S50_Eggs_0000084,S50,S50_Eggs,0 days 00:04:18.318000,0 days 00:04:18.318000,0 days 00:04:27.260000,7749,8017,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S50_Eggs_0000084,S50,S50_Eggs,0 days 00:04:18.318000,0 days 00:04:18.318000,0 days 00:04:27.260000,7749,8017,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S50_Eggs_0000085,S50,S50_Eggs,0 days 00:04:27.260000,0 days 00:04:27.260000,0 days 00:04:28.620000,8017,8058,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S50_Eggs_0000086,S50,S50_Eggs,0 days 00:04:28.620000,0 days 00:04:28.620000,0 days 00:04:31.147000,8058,8134,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S50_Eggs_0000087,S50,S50_Eggs,0 days 00:04:31.147000,0 days 00:04:31.147000,0 days 00:04:37.816000,8134,8334,put spatula plate,put,2,spatula,35,"['spatula', 'plate']","[35, 28]"
@@ -6916,7 +6916,7 @@ S51_Eggs_0000074,S51,S51_Eggs,0 days 00:02:19.021000,0 days 00:02:19.021000,0 da
 S51_Eggs_0000075,S51,S51_Eggs,0 days 00:02:19.661000,0 days 00:02:19.661000,0 days 00:02:24.751000,4189,4342,shake pan,shake,7,pan,26,['pan'],[26]
 S51_Eggs_0000076,S51,S51_Eggs,0 days 00:02:24.751000,0 days 00:02:24.751000,0 days 00:02:25.429000,4342,4362,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S51_Eggs_0000077,S51,S51_Eggs,0 days 00:02:25.429000,0 days 00:02:25.429000,0 days 00:02:27.881000,4362,4436,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S51_Eggs_0000078,S51,S51_Eggs,0 days 00:02:27.881000,0 days 00:02:27.881000,0 days 00:02:34.797000,4436,4643,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S51_Eggs_0000078,S51,S51_Eggs,0 days 00:02:27.881000,0 days 00:02:27.881000,0 days 00:02:34.797000,4436,4643,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S51_Eggs_0000079,S51,S51_Eggs,0 days 00:02:34.797000,0 days 00:02:34.797000,0 days 00:02:35.396000,4643,4661,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S51_Eggs_0000081,S51,S51_Eggs,0 days 00:02:38.211000,0 days 00:02:38.211000,0 days 00:02:39.209000,4746,4776,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S51_Eggs_0000082,S51,S51_Eggs,0 days 00:02:39.209000,0 days 00:02:39.209000,0 days 00:02:40.680000,4776,4820,take spatula top,take,1,spatula,35,"['spatula', 'top']","[35, 39]"
@@ -6928,7 +6928,7 @@ S51_Eggs_0000087,S51,S51_Eggs,0 days 00:03:16.902000,0 days 00:03:16.902000,0 da
 S51_Eggs_0000088,S51,S51_Eggs,0 days 00:03:18.803000,0 days 00:03:18.803000,0 days 00:03:20.760000,5964,6022,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S51_Eggs_0000089,S51,S51_Eggs,0 days 00:03:20.760000,0 days 00:03:20.760000,0 days 00:03:33.151000,6022,6394,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S51_Eggs_0000090,S51,S51_Eggs,0 days 00:03:33.151000,0 days 00:03:33.151000,0 days 00:03:33.949000,6394,6418,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S51_Eggs_0000091,S51,S51_Eggs,0 days 00:03:33.949000,0 days 00:03:33.949000,0 days 00:03:44.551000,6418,6736,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S51_Eggs_0000091,S51,S51_Eggs,0 days 00:03:33.949000,0 days 00:03:33.949000,0 days 00:03:44.551000,6418,6736,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S51_Eggs_0000092,S51,S51_Eggs,0 days 00:03:44.551000,0 days 00:03:44.551000,0 days 00:03:47.261000,6736,6817,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S51_Eggs_0000093,S51,S51_Eggs,0 days 00:03:47.261000,0 days 00:03:47.261000,0 days 00:03:50.819000,6817,6924,put spatula bowl,put,2,spatula,35,"['spatula', 'bowl']","[35, 4]"
 S51_Eggs_0000094,S51,S51_Eggs,0 days 00:03:50.819000,0 days 00:03:50.819000,0 days 00:03:56.524000,6924,7095,transition top fridge,transition,4,top,39,"['top', 'fridge']","[39, 18]"
@@ -7217,9 +7217,9 @@ S53_Eggs_0000054,S53,S53_Eggs,0 days 00:01:34.250000,0 days 00:01:34.250000,0 da
 S53_Eggs_0000055,S53,S53_Eggs,0 days 00:01:35.063000,0 days 00:01:35.063000,0 days 00:01:35.915000,2851,2877,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S53_Eggs_0000056,S53,S53_Eggs,0 days 00:01:35.915000,0 days 00:01:35.915000,0 days 00:01:53.155000,2877,3394,mix bowl whisk,mix,6,bowl,4,"['bowl', 'whisk']","[4, 43]"
 S53_Eggs_0000058,S53,S53_Eggs,0 days 00:01:56.294000,0 days 00:01:56.294000,0 days 00:01:57.801000,3488,3534,put whisk top,put,2,whisk,43,"['whisk', 'top']","[43, 39]"
-S53_Eggs_0000059,S53,S53_Eggs,0 days 00:01:57.801000,0 days 00:01:57.801000,0 days 00:02:10.283000,3534,3908,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S53_Eggs_0000059,S53,S53_Eggs,0 days 00:01:57.801000,0 days 00:01:57.801000,0 days 00:02:10.283000,3534,3908,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S53_Eggs_0000060,S53,S53_Eggs,0 days 00:02:10.283000,0 days 00:02:10.283000,0 days 00:02:12.489000,3908,3974,take whisk top,take,1,whisk,43,"['whisk', 'top']","[43, 39]"
-S53_Eggs_0000061,S53,S53_Eggs,0 days 00:02:12.489000,0 days 00:02:12.489000,0 days 00:02:15.195000,3974,4055,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S53_Eggs_0000061,S53,S53_Eggs,0 days 00:02:12.489000,0 days 00:02:12.489000,0 days 00:02:15.195000,3974,4055,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S53_Eggs_0000062,S53,S53_Eggs,0 days 00:02:15.195000,0 days 00:02:15.195000,0 days 00:02:15.876000,4055,4076,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S53_Eggs_0000063,S53,S53_Eggs,0 days 00:02:15.876000,0 days 00:02:15.876000,0 days 00:02:18.063000,4076,4141,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S53_Eggs_0000064,S53,S53_Eggs,0 days 00:02:18.063000,0 days 00:02:18.063000,0 days 00:02:19.644000,4141,4189,open drawer,open,0,drawer,15,['drawer'],[15]
@@ -7230,7 +7230,7 @@ S53_Eggs_0000069,S53,S53_Eggs,0 days 00:03:19.177000,0 days 00:03:19.177000,0 da
 S53_Eggs_0000070,S53,S53_Eggs,0 days 00:03:19.726000,0 days 00:03:19.726000,0 days 00:03:20.928000,5991,6027,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S53_Eggs_0000072,S53,S53_Eggs,0 days 00:03:22.231000,0 days 00:03:22.231000,0 days 00:03:22.735000,6066,6082,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
 S53_Eggs_0000073,S53,S53_Eggs,0 days 00:03:22.735000,0 days 00:03:22.735000,0 days 00:03:23.313000,6082,6099,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S53_Eggs_0000074,S53,S53_Eggs,0 days 00:03:23.313000,0 days 00:03:23.313000,0 days 00:03:32.909000,6099,6387,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S53_Eggs_0000074,S53,S53_Eggs,0 days 00:03:23.313000,0 days 00:03:23.313000,0 days 00:03:32.909000,6099,6387,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S53_Eggs_0000075,S53,S53_Eggs,0 days 00:03:32.909000,0 days 00:03:32.909000,0 days 00:03:34.575000,6387,6437,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S53_Eggs_0000076,S53,S53_Eggs,0 days 00:03:34.575000,0 days 00:03:34.575000,0 days 00:03:39.614000,6437,6588,put spatula pan,put,2,spatula,35,"['spatula', 'pan']","[35, 26]"
 S53_Sandwich_0000001,S53,S53_Sandwich,0 days 00:00:07.902000,0 days 00:00:07.902000,0 days 00:00:10.612000,237,318,open cupboard,open,0,cupboard,13,['cupboard'],[13]
@@ -7481,7 +7481,7 @@ S54_Eggs_0000080,S54,S54_Eggs,0 days 00:02:20.394000,0 days 00:02:20.394000,0 da
 S54_Eggs_0000081,S54,S54_Eggs,0 days 00:02:21.381000,0 days 00:02:21.381000,0 days 00:02:22.097000,4241,4262,put spoon top,put,2,spoon,36,"['spoon', 'top']","[36, 39]"
 S54_Eggs_0000082,S54,S54_Eggs,0 days 00:02:22.097000,0 days 00:02:22.097000,0 days 00:02:24.054000,4262,4321,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
 S54_Eggs_0000083,S54,S54_Eggs,0 days 00:02:24.054000,0 days 00:02:24.054000,0 days 00:02:24.765000,4321,4342,take whisk bowl,take,1,whisk,43,"['whisk', 'bowl']","[43, 4]"
-S54_Eggs_0000084,S54,S54_Eggs,0 days 00:02:24.765000,0 days 00:02:24.765000,0 days 00:02:36.848000,4342,4705,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S54_Eggs_0000084,S54,S54_Eggs,0 days 00:02:24.765000,0 days 00:02:24.765000,0 days 00:02:36.848000,4342,4705,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S54_Eggs_0000085,S54,S54_Eggs,0 days 00:02:36.848000,0 days 00:02:36.848000,0 days 00:02:37.840000,4705,4735,put whisk bowl,put,2,whisk,43,"['whisk', 'bowl']","[43, 4]"
 S54_Eggs_0000086,S54,S54_Eggs,0 days 00:02:37.840000,0 days 00:02:37.840000,0 days 00:02:39.074000,4735,4772,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S54_Eggs_0000087,S54,S54_Eggs,0 days 00:02:39.074000,0 days 00:02:39.074000,0 days 00:02:39.968000,4772,4799,take towel:kitchen top,take,1,towel:kitchen,41,"['towel:kitchen', 'top']","[41, 39]"
@@ -7495,7 +7495,7 @@ S54_Eggs_0000094,S54,S54_Eggs,0 days 00:03:39.541000,0 days 00:03:39.541000,0 da
 S54_Eggs_0000095,S54,S54_Eggs,0 days 00:03:41.007000,0 days 00:03:41.007000,0 days 00:03:41.958000,6630,6658,take spatula top,take,1,spatula,35,"['spatula', 'top']","[35, 39]"
 S54_Eggs_0000096,S54,S54_Eggs,0 days 00:03:41.958000,0 days 00:03:41.958000,0 days 00:03:46.062000,6658,6781,mix pan spatula,mix,6,pan,26,"['pan', 'spatula']","[26, 35]"
 S54_Eggs_0000097,S54,S54_Eggs,0 days 00:03:46.062000,0 days 00:03:46.062000,0 days 00:03:47.240000,6781,6817,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S54_Eggs_0000098,S54,S54_Eggs,0 days 00:03:47.240000,0 days 00:03:47.240000,0 days 00:03:55.611000,6817,7068,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S54_Eggs_0000098,S54,S54_Eggs,0 days 00:03:47.240000,0 days 00:03:47.240000,0 days 00:03:55.611000,6817,7068,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S54_Eggs_0000099,S54,S54_Eggs,0 days 00:03:55.611000,0 days 00:03:55.611000,0 days 00:03:57.658000,7068,7129,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S54_Eggs_0000101,S54,S54_Eggs,0 days 00:04:00.388000,0 days 00:04:00.388000,0 days 00:04:01.563000,7211,7246,put spatula top,put,2,spatula,35,"['spatula', 'top']","[35, 39]"
 S54_Eggs_0000102,S54,S54_Eggs,0 days 00:04:01.563000,0 days 00:04:01.563000,0 days 00:04:05.699000,7246,7370,put towel:kitchen top,put,2,towel:kitchen,41,"['towel:kitchen', 'top']","[41, 39]"
@@ -7743,7 +7743,7 @@ S55_Eggs_0000059,S55,S55_Eggs,0 days 00:01:43.738000,0 days 00:01:43.738000,0 da
 S55_Eggs_0000060,S55,S55_Eggs,0 days 00:01:45.534000,0 days 00:01:45.534000,0 days 00:01:47.091000,3166,3212,mix bowl whisk,mix,6,bowl,4,"['bowl', 'whisk']","[4, 43]"
 S55_Eggs_0000062,S55,S55_Eggs,0 days 00:01:48.504000,0 days 00:01:48.504000,0 days 00:01:49.450000,3255,3283,put whisk top,put,2,whisk,43,"['whisk', 'top']","[43, 39]"
 S55_Eggs_0000063,S55,S55_Eggs,0 days 00:01:49.450000,0 days 00:01:49.450000,0 days 00:01:51.531000,3283,3345,take bowl top,take,1,bowl,4,"['bowl', 'top']","[4, 39]"
-S55_Eggs_0000064,S55,S55_Eggs,0 days 00:01:51.531000,0 days 00:01:51.531000,0 days 00:01:58.289000,3345,3548,fill shell:egg bowl pan,fill,5,shell:egg,33,"['shell:egg', 'bowl', 'pan']","[33, 4, 26]"
+S55_Eggs_0000064,S55,S55_Eggs,0 days 00:01:51.531000,0 days 00:01:51.531000,0 days 00:01:58.289000,3345,3548,fill egg bowl pan,fill,5,egg,16,"['egg', 'bowl', 'pan']","[16, 4, 26]"
 S55_Eggs_0000065,S55,S55_Eggs,0 days 00:01:58.289000,0 days 00:01:58.289000,0 days 00:02:00.114000,3548,3603,put bowl top,put,2,bowl,4,"['bowl', 'top']","[4, 39]"
 S55_Eggs_0000066,S55,S55_Eggs,0 days 00:02:00.114000,0 days 00:02:00.114000,0 days 00:02:01.988000,3603,3659,open drawer,open,0,drawer,15,['drawer'],[15]
 S55_Eggs_0000067,S55,S55_Eggs,0 days 00:02:01.988000,0 days 00:02:01.988000,0 days 00:02:03.280000,3659,3698,take spatula drawer,take,1,spatula,35,"['spatula', 'drawer']","[35, 15]"
@@ -7769,7 +7769,7 @@ S55_Eggs_0000090,S55,S55_Eggs,0 days 00:03:36.744000,0 days 00:03:36.744000,0 da
 S55_Eggs_0000091,S55,S55_Eggs,0 days 00:03:37.754000,0 days 00:03:37.754000,0 days 00:03:39.754000,6532,6592,turn-off hob,turn-off,10,hob,20,['hob'],[20]
 S55_Eggs_0000093,S55,S55_Eggs,0 days 00:03:41.131000,0 days 00:03:41.131000,0 days 00:03:41.657000,6633,6649,take spatula pan,take,1,spatula,35,"['spatula', 'pan']","[35, 26]"
 S55_Eggs_0000094,S55,S55_Eggs,0 days 00:03:41.657000,0 days 00:03:41.657000,0 days 00:03:42.210000,6649,6666,take pan hob,take,1,pan,26,"['pan', 'hob']","[26, 20]"
-S55_Eggs_0000095,S55,S55_Eggs,0 days 00:03:42.210000,0 days 00:03:42.210000,0 days 00:03:49.839000,6666,6895,fill shell:egg pan plate,fill,5,shell:egg,33,"['shell:egg', 'pan', 'plate']","[33, 26, 28]"
+S55_Eggs_0000095,S55,S55_Eggs,0 days 00:03:42.210000,0 days 00:03:42.210000,0 days 00:03:49.839000,6666,6895,fill egg pan plate,fill,5,egg,16,"['egg', 'pan', 'plate']","[16, 26, 28]"
 S55_Eggs_0000096,S55,S55_Eggs,0 days 00:03:49.839000,0 days 00:03:49.839000,0 days 00:03:51.688000,6895,6950,put pan hob,put,2,pan,26,"['pan', 'hob']","[26, 20]"
 S55_Eggs_0000097,S55,S55_Eggs,0 days 00:03:51.688000,0 days 00:03:51.688000,0 days 00:03:53.307000,6950,6999,put spatula bowl,put,2,spatula,35,"['spatula', 'bowl']","[35, 4]"
 S55_Eggs_0000098,S55,S55_Eggs,0 days 00:03:53.307000,0 days 00:03:53.307000,0 days 00:03:54.967000,6999,7049,take cellar:salt cellar:salt top,take,1,cellar:salt,10,"['cellar:salt', 'cellar:salt', 'top']","[10, 10, 39]"

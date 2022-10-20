@@ -1,0 +1,216 @@
+narration_id,narration
+S07_Sandwich_0000016,close bag
+S07_Brownie_0000054,close bottle
+S07_Eggs_0000009,close box
+S07_Brownie_0000096,close can
+S13_Eggs_0000077,close cellar:salt
+S07_Brownie_0000008,close cupboard
+S07_Brownie_0000012,close drawer
+S07_Brownie_0000018,close fridge
+S07_Sandwich_0000049,close jar
+S07_Brownie_0000107,close oven
+S13_Brownie_0000048,close rubbish
+S16_Sandwich_0000063,cut sandwich knife
+S07_Brownie_0000094,fill butter can pan
+S07_Brownie_0000102,fill dough bowl pan
+S07_Brownie_0000024,fill egg shell:egg bowl
+S07_Brownie_0000077,fill mixture bag bowl
+S07_Brownie_0000050,fill oil bottle cup
+S07_Eggs_0000047,fill oil bottle pan
+S07_Brownie_0000056,fill oil cup bowl
+S16_Eggs_0000040,fill oil pan sink
+S07_Eggs_0000031,fill pepper cellar:salt bowl
+S16_Eggs_0000069,fill pepper cellar:salt pan
+S07_Eggs_0000028,fill salt cellar:salt bowl
+S16_Eggs_0000066,fill salt cellar:salt pan
+S07_Eggs_0000069,fill shell:egg bowl pan
+S07_Eggs_0000084,fill shell:egg pan plate
+S07_Sandwich_0000036,fill spreads jar bread
+S07_Brownie_0000039,fill water cup bowl
+S07_Brownie_0000038,fill water tap cup
+S07_Brownie_0000034,mix bowl fork
+S13_Brownie_0000119,mix bowl spoon
+S28_Brownie_0000077,mix bowl whisk
+S09_Eggs_0000067,mix pan fork
+S13_Eggs_0000143,mix pan spatula
+S48_Eggs_0000088,mix pan whisk
+S07_Brownie_0000067,open bag
+S07_Brownie_0000046,open bottle
+S07_Brownie_0000015,open box
+S07_Brownie_0000091,open can
+S18_Eggs_0000097,open cellar:salt
+S07_Brownie_0000001,open cupboard
+S07_Brownie_0000009,open drawer
+S07_Brownie_0000014,open fridge
+S07_Sandwich_0000034,open jar
+S07_Brownie_0000104,open oven
+S13_Brownie_0000046,open rubbish
+S07_Brownie_0000022,open shell:egg
+S07_Brownie_0000078,put bag box
+S07_Sandwich_0000017,put bag cupboard
+S28_Sandwich_0000059,put bag fridge
+S09_Brownie_0000100,put bag sink
+S07_Sandwich_0000003,put bag top
+S07_Brownie_0000059,put bottle cupboard
+S20_Brownie_0000025,put bottle sink
+S07_Brownie_0000044,put bottle top
+S29_Eggs_0000015,put bowl cupboard
+S07_Brownie_0000103,put bowl sink
+S07_Brownie_0000003,put bowl top
+S08_Brownie_0000056,put box bag sink
+S54_Brownie_0000129,put box fridge
+S13_Brownie_0000181,put box rubbish
+S07_Brownie_0000080,put box sink
+S07_Brownie_0000066,put box top
+S35_Sandwich_0000022,put bread board:chopping
+S07_Sandwich_0000045,put bread bread
+S07_Sandwich_0000012,put bread plate
+S19_Sandwich_0000009,put bread top
+S08_Brownie_0000087,put can cupboard
+S07_Brownie_0000061,put can top
+S07_Brownie_0000047,put cap top
+S07_Eggs_0000033,put cellar:salt cellar:salt cupboard
+S14_Eggs_0000023,put cellar:salt cellar:salt top
+S09_Eggs_0000053,put cellar:salt cupboard
+S07_Eggs_0000027,put cellar:salt top
+S07_Sandwich_0000005,put clip top
+S16_Brownie_0000008,put cup cup top
+S13_Brownie_0000171,put cup cupboard
+S08_Brownie_0000035,put cup sink
+S07_Brownie_0000005,put cup top
+S07_Brownie_0000035,put fork bowl
+S07_Eggs_0000087,put fork pan
+S11_Eggs_0000075,put fork plate
+S07_Brownie_0000101,put fork sink
+S16_Brownie_0000095,put fork spoon sink
+S07_Brownie_0000011,put fork top
+S35_Sandwich_0000028,put jar board:chopping
+S25_Sandwich_0000032,put jar cap top
+S07_Sandwich_0000057,put jar fridge
+S08_Sandwich_0000059,put jar jar fridge
+S15_Sandwich_0000021,put jar jar top
+S07_Sandwich_0000030,put jar top
+S35_Sandwich_0000045,put knife board:chopping
+S16_Brownie_0000042,put knife drawer
+S07_Sandwich_0000023,put knife plate
+S07_Sandwich_0000043,put knife sink
+S16_Sandwich_0000065,put knife spoon sink
+S08_Sandwich_0000012,put knife top
+S07_Eggs_0000041,put pan hob
+S07_Brownie_0000106,put pan oven
+S48_Eggs_0000100,put pan plate
+S08_Eggs_0000071,put pan sink
+S07_Brownie_0000087,put pan top
+S07_Eggs_0000059,put plate top
+S35_Sandwich_0000066,put sandwich plate
+S07_Brownie_0000071,put scissors drawer
+S09_Brownie_0000081,put scissors top
+S29_Eggs_0000084,put shell:egg bowl
+S25_Brownie_0000046,put shell:egg box
+S32_Brownie_0000058,put shell:egg cup
+S13_Brownie_0000100,put shell:egg rubbish
+S07_Brownie_0000025,put shell:egg sink
+S07_Brownie_0000021,put shell:egg top
+S36_Brownie_0000105,put spatula bowl
+S19_Eggs_0000126,put spatula pan
+S13_Eggs_0000136,put spatula plate
+S13_Eggs_0000174,put spatula sink
+S08_Eggs_0000060,put spatula top
+S41_Sandwich_0000033,put spoon board:chopping
+S13_Brownie_0000120,put spoon bowl
+S16_Sandwich_0000059,put spoon plate
+S17_Brownie_0000097,put spoon sink
+S20_Sandwich_0000048,put spoon top
+S28_Eggs_0000043,put towel fridge
+S28_Brownie_0000055,put towel top
+S12_Brownie_0000046,put towel:kitchen fridge
+S13_Brownie_0000180,put towel:kitchen rubbish
+S09_Brownie_0000135,put towel:kitchen sink
+S09_Brownie_0000042,put towel:kitchen top
+S28_Brownie_0000079,put whisk bowl
+S33_Brownie_0000133,put whisk pan
+S31_Brownie_0000081,put whisk sink
+S31_Eggs_0000044,put whisk spatula top
+S29_Brownie_0000084,put whisk top
+S07_Brownie_0000093,shake can
+S07_Eggs_0000051,shake pan
+S07_Brownie_0000075,take bag box
+S07_Sandwich_0000002,take bag cupboard
+S28_Sandwich_0000003,take bag fridge
+S07_Sandwich_0000013,take bag top
+S07_Brownie_0000043,take bottle cupboard
+S07_Brownie_0000049,take bottle top
+S07_Brownie_0000002,take bowl cupboard
+S07_Brownie_0000033,take bowl top
+S07_Brownie_0000064,take box cupboard
+S29_Brownie_0000007,take box fridge
+S14_Brownie_0000043,take box sink
+S07_Brownie_0000074,take box top
+S07_Sandwich_0000011,take bread bag
+S35_Sandwich_0000060,take bread board:chopping
+S07_Sandwich_0000044,take bread plate
+S19_Sandwich_0000024,take bread top
+S07_Brownie_0000060,take can cupboard
+S07_Brownie_0000090,take can top
+S07_Brownie_0000053,take cap top
+S13_Eggs_0000038,take cellar:salt cellar:salt cupboard
+S16_Eggs_0000077,take cellar:salt cellar:salt top
+S07_Eggs_0000025,take cellar:salt cupboard
+S07_Eggs_0000030,take cellar:salt top
+S07_Sandwich_0000015,take clip top
+S07_Brownie_0000004,take cup cupboard
+S07_Brownie_0000037,take cup top
+S07_Brownie_0000081,take fork bowl
+S07_Brownie_0000010,take fork drawer
+S14_Brownie_0000092,take fork pan
+S13_Eggs_0000169,take fork plate
+S07_Eggs_0000074,take fork sink
+S07_Brownie_0000020,take fork top
+S35_Sandwich_0000038,take jar board:chopping
+S41_Sandwich_0000051,take jar cap top
+S07_Sandwich_0000026,take jar fridge
+S36_Sandwich_0000016,take jar jar fridge
+S34_Sandwich_0000044,take jar jar top
+S07_Sandwich_0000037,take jar top
+S35_Sandwich_0000050,take knife board:chopping
+S07_Sandwich_0000020,take knife drawer
+S07_Sandwich_0000032,take knife plate
+S08_Sandwich_0000043,take knife sink
+S08_Sandwich_0000036,take knife top
+S07_Brownie_0000085,take pan cupboard
+S07_Eggs_0000050,take pan hob
+S28_Brownie_0000083,take pan oven
+S07_Brownie_0000105,take pan top
+S07_Eggs_0000057,take plate cupboard
+S35_Sandwich_0000065,take sandwich board:chopping
+S07_Brownie_0000069,take scissors drawer
+S09_Brownie_0000084,take scissors top
+S07_Brownie_0000016,take shell:egg box
+S07_Brownie_0000026,take shell:egg top
+S08_Eggs_0000058,take spatula drawer
+S28_Eggs_0000063,take spatula pan
+S13_Eggs_0000142,take spatula plate
+S19_Eggs_0000113,take spatula top
+S13_Brownie_0000142,take spoon bowl
+S13_Brownie_0000115,take spoon drawer
+S16_Sandwich_0000064,take spoon plate
+S16_Brownie_0000099,take spoon sink
+S20_Sandwich_0000053,take spoon top
+S28_Brownie_0000052,take towel fridge
+S28_Brownie_0000081,take towel top
+S09_Brownie_0000039,take towel:kitchen fridge
+S09_Brownie_0000131,take towel:kitchen top
+S28_Brownie_0000097,take whisk bowl
+S28_Brownie_0000075,take whisk drawer
+S33_Brownie_0000135,take whisk pan
+S40_Brownie_0000092,take whisk sink
+S29_Brownie_0000102,take whisk top
+S07_Brownie_0000019,transition fridge top
+S07_Brownie_0000013,transition top fridge
+S07_Eggs_0000080,turn-off hob
+S07_Eggs_0000052,turn-on hob
+S07_Brownie_0000108,turn-on oven
+S09_Brownie_0000132,wash bowl towel:kitchen
+S28_Brownie_0000053,wash hand towel
+S09_Brownie_0000041,wash hand towel:kitchen
+S29_Sandwich_0000038,wash knife towel:kitchen

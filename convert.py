@@ -14,11 +14,11 @@ REMOVE_SUFFIXES = ['tl', 'tr', 'tm', 'bl', 'br', 'bm', 'l', 's', 'm']
 
 NON_NOUNS = ['1', '2', 'partailly', 'partially', 'patially']  # a bit manual but
 
-def main(ann_dir='Data', out_dir='output', target_recipe=None, suffix='_retrieval_test', make_sentence_csv=True, **kw):
+def main(ann_dir='Data', ek_root=None, out_dir='output', target_recipe=None, suffix='_retrieval_test', make_sentence_csv=True, **kw):
     # load src csv files
     dfs = []
     for f in tqdm.tqdm(glob.glob(os.path.join(ann_dir, 'Plans/*/*.txt'))):
-        df = convert_csv(f, target_recipe=target_recipe, **kw)
+        df = convert_csv(f, ek_root=ek_root, target_recipe=target_recipe, **kw)
         if df is None:
             continue
         dfs.append(df)
@@ -45,6 +45,7 @@ def main(ann_dir='Data', out_dir='output', target_recipe=None, suffix='_retrieva
         sentence_df.to_pickle(os.path.join(out_dir, f'{name}_sentence.pkl'))
     
     print(df)
+    print(df.narration.value_counts())
 
 
 def verb_noun_classes(df):
@@ -63,7 +64,7 @@ def verb_noun_classes(df):
     return df, unique_verbs, unique_nouns
 
 
-def convert_csv(csv_file, eaf_file=None, fps=30, target_recipe=None, norm=True):
+def convert_csv(csv_file, ek_root=None, eaf_file=None, fps=30, target_recipe=None):
     # read csv
     eaf_file = os.path.splitext(csv_file)[0] + '.eaf'
     df = pd.read_csv(csv_file, header=None)
@@ -102,13 +103,70 @@ def convert_csv(csv_file, eaf_file=None, fps=30, target_recipe=None, norm=True):
     df['verb'] = df.narration.apply(lambda s: s.split()[0])
     df['noun'] = df.narration.apply(lambda s: ' '.join(s.split()[1:2]))
     df['all_nouns'] = df.narration.apply(lambda s: [si for ss in s.split()[1:] for si in ss.split('&')])
-    df['all_nouns'] = df.all_nouns.apply(lambda ns: [remove_suffix(n) for n in ns if n not in NON_NOUNS] or ['-'])
+    df['all_nouns'] = df.all_nouns.apply(lambda ns: [remove_suffix(n) for n in ns if n not in NON_NOUNS] or [])
     df['noun'] = df.all_nouns.apply(lambda ns: ' '.join(ns[:1]))
+    df['narration'] = df.apply(lambda r: ' '.join([r.verb]+r.all_nouns), axis=1)
 
-    if norm:
-        df['narration'] = df.apply(lambda r: ' '.join([r.verb]+r.all_nouns), axis=1)
-
+    if ek_root:
+        df = norm_noun_verb(df, ek_root)
     return df
+
+
+def norm_noun_verb(df, ek_root):
+    noun_df = pd.read_csv(os.path.join(ek_root, 'EPIC_100_noun_classes.csv'))
+    verb_df = pd.read_csv(os.path.join(ek_root, 'EPIC_100_verb_classes.csv'))
+
+    df = df[(df.all_nouns != '-') & (df.verb != 'other')].copy()
+    df['verb'] = df.verb.str.replace('_', '-')
+
+    noun_norm = {v: row.key for i, row in noun_df.iterrows() for v in eval(row.instances)}
+    verb_norm = {v: row.key for i, row in verb_df.iterrows() for v in eval(row.instances)}
+    noun_norm.update(manual_noun_norm)
+
+    def do_norm(r):
+        nouns = r.all_nouns
+
+        r['verb'] = norm_verb = verb_norm[r.verb]
+        r['all_nouns'] = norm_nouns = [noun_norm[n] for n in nouns]
+        r['noun'] = ' '.join(norm_nouns[:1])
+        r['narration'] = ' '.join([norm_verb] + norm_nouns)
+        return r
+
+    return df.apply(do_norm, axis=1)
+
+
+manual_noun_norm = {
+    'measuring_cup': 'cup', 
+    'counter_place': 'top', 
+    'fridge_place': 'fridge', 
+    'egg_box': 'box',
+    'egg_shell': 'shell:egg', 
+    'open_egg_shell': 'shell:egg', 
+    'empty_egg_shell': 'shell:egg', 
+    'oil_bottle': 'bottle',
+    'butter_spray_can': 'can', 
+    'oil_bottle_cap': 'cap', 
+    'butter_spray_cap': 'cap', 
+    'brownie_box': 'box', 
+    'brownie_bag': 'bag',
+    'brownie_mix': 'mixture', 
+    'baking_pan': 'pan', 
+    'pepper_shaker': 'cellar:salt', 
+    'salt_shaker': 'cellar:salt', 
+    'eggs': 'shell:egg', 
+    'bread_bag': 'bag', 
+    'jam_glass': 'jar',
+    'peanut_butter_glass': 'jar', 
+    'peanut_butter_glass_cap': 'cap', 
+    'peanut_butter': 'spreads',
+    'jam_glass_cap': 'jar', 
+    'paper_towel': 'towel:kitchen', 
+    'fridge_counter': 'fridge', 
+    'hands': 'hand',
+    'jam_glass_2': 'jar',
+}
+
+
 
 def remove_suffix(x, suffixes=REMOVE_SUFFIXES, sep='_'):
     for s in suffixes:
